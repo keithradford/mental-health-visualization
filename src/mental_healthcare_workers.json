@@ -1,0 +1,2985 @@
+{
+  "2000": [],
+  "2001": [],
+  "2002": [],
+  "2003": [],
+  "2004": [],
+  "2005": [],
+  "2006": [],
+  "2007": [],
+  "2008": [],
+  "2009": [],
+  "2010": [],
+  "2011": [],
+  "2012": [],
+  "2013": [
+    {
+      "type": "Psychiatrists",
+      "country": "Mauritania",
+      "countryCode": "MRT",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Belgium",
+      "countryCode": "BEL",
+      "workers": "20.0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Mauritania",
+      "countryCode": "MRT",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Belgium",
+      "countryCode": "BEL",
+      "workers": "12"
+    },
+    {
+      "type": "Social workers",
+      "country": "Belgium",
+      "countryCode": "BEL",
+      "workers": "17"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Mauritania",
+      "countryCode": "MRT",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Belgium",
+      "countryCode": "BEL",
+      "workers": "10"
+    }
+  ],
+  "2014": [
+    {
+      "type": "Psychiatrists",
+      "country": "Honduras",
+      "countryCode": "HND",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Honduras",
+      "countryCode": "HND",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Honduras",
+      "countryCode": "HND",
+      "workers": "0"
+    }
+  ],
+  "2015": [
+    {
+      "type": "Psychiatrists",
+      "country": "United Republic of Tanzania",
+      "countryCode": "TZA",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Sudan",
+      "countryCode": "SDN",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Jamaica",
+      "countryCode": "JAM",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Lebanon",
+      "countryCode": "LBN",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Oman",
+      "countryCode": "OMN",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Czechia",
+      "countryCode": "CZE",
+      "workers": "12"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Germany",
+      "countryCode": "DEU",
+      "workers": "13"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Australia",
+      "countryCode": "AUS",
+      "workers": "13"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Luxembourg",
+      "countryCode": "LUX",
+      "workers": "17"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "China",
+      "countryCode": "CHN",
+      "workers": "2"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Netherlands",
+      "countryCode": "NLD",
+      "workers": "20"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Republic of Moldova",
+      "countryCode": "MDA",
+      "workers": "4"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Switzerland",
+      "countryCode": "CHE",
+      "workers": "43.9"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Italy",
+      "countryCode": "ITA",
+      "workers": "5.9"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Bosnia and Herzegovina",
+      "countryCode": "BIH",
+      "workers": "8.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Russian Federation",
+      "countryCode": "RUS",
+      "workers": "8"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Spain",
+      "countryCode": "ESP",
+      "workers": "9"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Latvia",
+      "countryCode": "LVA",
+      "workers": "9.99"
+    },
+    {
+      "type": "Nurses",
+      "country": "United Republic of Tanzania",
+      "countryCode": "TZA",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Jamaica",
+      "countryCode": "JAM",
+      "workers": "10"
+    },
+    {
+      "type": "Nurses",
+      "country": "Republic of Moldova",
+      "countryCode": "MDA",
+      "workers": "14"
+    },
+    {
+      "type": "Nurses",
+      "country": "Kiribati",
+      "countryCode": "KIR",
+      "workers": "2"
+    },
+    {
+      "type": "Nurses",
+      "country": "Spain",
+      "countryCode": "ESP",
+      "workers": "2"
+    },
+    {
+      "type": "Nurses",
+      "country": "Bosnia and Herzegovina",
+      "countryCode": "BIH",
+      "workers": "22"
+    },
+    {
+      "type": "Nurses",
+      "country": "Latvia",
+      "countryCode": "LVA",
+      "workers": "22"
+    },
+    {
+      "type": "Nurses",
+      "country": "Italy",
+      "countryCode": "ITA",
+      "workers": "23"
+    },
+    {
+      "type": "Nurses",
+      "country": "Oman",
+      "countryCode": "OMN",
+      "workers": "3"
+    },
+    {
+      "type": "Nurses",
+      "country": "Lebanon",
+      "countryCode": "LBN",
+      "workers": "3"
+    },
+    {
+      "type": "Nurses",
+      "country": "Czechia",
+      "countryCode": "CZE",
+      "workers": "30"
+    },
+    {
+      "type": "Nurses",
+      "country": "Cyprus",
+      "countryCode": "CYP",
+      "workers": "34.9"
+    },
+    {
+      "type": "Nurses",
+      "country": "China",
+      "countryCode": "CHN",
+      "workers": "5"
+    },
+    {
+      "type": "Nurses",
+      "country": "Barbados",
+      "countryCode": "BRB",
+      "workers": "63"
+    },
+    {
+      "type": "Nurses",
+      "country": "Australia",
+      "countryCode": "AUS",
+      "workers": "90"
+    },
+    {
+      "type": "Nurses",
+      "country": "Switzerland",
+      "countryCode": "CHE",
+      "workers": "92"
+    },
+    {
+      "type": "Social workers",
+      "country": "Cyprus",
+      "countryCode": "CYP",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "United Republic of Tanzania",
+      "countryCode": "TZA",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Spain",
+      "countryCode": "ESP",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Jamaica",
+      "countryCode": "JAM",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Republic of Moldova",
+      "countryCode": "MDA",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Sudan",
+      "countryCode": "SDN",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Bosnia and Herzegovina",
+      "countryCode": "BIH",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Kiribati",
+      "countryCode": "KIR",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Czechia",
+      "countryCode": "CZE",
+      "workers": "1"
+    },
+    {
+      "type": "Social workers",
+      "country": "Lebanon",
+      "countryCode": "LBN",
+      "workers": "1"
+    },
+    {
+      "type": "Social workers",
+      "country": "Russian Federation",
+      "countryCode": "RUS",
+      "workers": "2"
+    },
+    {
+      "type": "Social workers",
+      "country": "Italy",
+      "countryCode": "ITA",
+      "workers": "2"
+    },
+    {
+      "type": "Psychologists",
+      "country": "United Republic of Tanzania",
+      "countryCode": "TZA",
+      "workers": "0.00"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Jamaica",
+      "countryCode": "JAM",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Oman",
+      "countryCode": "OMN",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Republic of Moldova",
+      "countryCode": "MDA",
+      "workers": "0.9"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Bosnia and Herzegovina",
+      "countryCode": "BIH",
+      "workers": "1"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Australia",
+      "countryCode": "AUS",
+      "workers": "10"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Netherlands",
+      "countryCode": "NLD",
+      "workers": "12"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Czechia",
+      "countryCode": "CZE",
+      "workers": "2"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Lebanon",
+      "countryCode": "LBN",
+      "workers": "3"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Italy",
+      "countryCode": "ITA",
+      "workers": "3"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Russian Federation",
+      "countryCode": "RUS",
+      "workers": "4"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Germany",
+      "countryCode": "DEU",
+      "workers": "49"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Switzerland",
+      "countryCode": "CHE",
+      "workers": "84"
+    }
+  ],
+  "2016": [
+    {
+      "type": "Psychiatrists",
+      "country": "Chad",
+      "countryCode": "TCD",
+      "workers": "0.00"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Niger",
+      "countryCode": "NER",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Guinea",
+      "countryCode": "GIN",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "South Sudan",
+      "countryCode": "SSD",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Mali",
+      "countryCode": "MLI",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Burkina Faso",
+      "countryCode": "BFA",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Liberia",
+      "countryCode": "LBR",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Mozambique",
+      "countryCode": "MOZ",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Togo",
+      "countryCode": "TGO",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Zambia",
+      "countryCode": "ZMB",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Angola",
+      "countryCode": "AGO",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Ghana",
+      "countryCode": "GHA",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Madagascar",
+      "countryCode": "MDG",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Rwanda",
+      "countryCode": "RWA",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Haiti",
+      "countryCode": "HTI",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Congo",
+      "countryCode": "COG",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Timor-Leste",
+      "countryCode": "TLS",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Uganda",
+      "countryCode": "UGA",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Zimbabwe",
+      "countryCode": "ZWE",
+      "workers": "0.09"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Gambia",
+      "countryCode": "GMB",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Bangladesh",
+      "countryCode": "BGD",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Côte d’Ivoire",
+      "countryCode": "CIV",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Kenya",
+      "countryCode": "KEN",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Senegal",
+      "countryCode": "SEN",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Yemen",
+      "countryCode": "YEM",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Mexico",
+      "countryCode": "MEX",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Fiji",
+      "countryCode": "FJI",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Afghanistan",
+      "countryCode": "AFG",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Gabon",
+      "countryCode": "GAB",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "India",
+      "countryCode": "IND",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Indonesia",
+      "countryCode": "IDN",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Nepal",
+      "countryCode": "NPL",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Namibia",
+      "countryCode": "NAM",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Syrian Arab Republic",
+      "countryCode": "SYR",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Myanmar",
+      "countryCode": "MMR",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Vanuatu",
+      "countryCode": "VUT",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Cambodia",
+      "countryCode": "KHM",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Ecuador",
+      "countryCode": "ECU",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Guatemala",
+      "countryCode": "GTM",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Bhutan",
+      "countryCode": "BTN",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Sao Tome and Principe",
+      "countryCode": "STP",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Philippines",
+      "countryCode": "PHL",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Saint Lucia",
+      "countryCode": "LCA",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Thailand",
+      "countryCode": "THA",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Morocco",
+      "countryCode": "MAR",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "El Salvador",
+      "countryCode": "SLV",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Guyana",
+      "countryCode": "GUY",
+      "workers": "0.9"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Antigua and Barbuda",
+      "countryCode": "ATG",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Malaysia",
+      "countryCode": "MYS",
+      "workers": "1.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Jordan",
+      "countryCode": "JOR",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Bolivia (Plurinational State of)",
+      "countryCode": "BOL",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Brunei Darussalam",
+      "countryCode": "BRN",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Suriname",
+      "countryCode": "SUR",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Saudi Arabia",
+      "countryCode": "SAU",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Belize",
+      "countryCode": "BLZ",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Tajikistan",
+      "countryCode": "TJK",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Albania",
+      "countryCode": "ALB",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "South Africa",
+      "countryCode": "ZAF",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Samoa",
+      "countryCode": "WSM",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Egypt",
+      "countryCode": "EGY",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Türkiye",
+      "countryCode": "TUR",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "United Arab Emirates",
+      "countryCode": "ARE",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Kyrgyzstan",
+      "countryCode": "KGZ",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Colombia",
+      "countryCode": "COL",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Grenada",
+      "countryCode": "GRD",
+      "workers": "1"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "United States of America",
+      "countryCode": "USA",
+      "workers": "10"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Hungary",
+      "countryCode": "HUN",
+      "workers": "11.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Croatia",
+      "countryCode": "HRV",
+      "workers": "11"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "workers": "11"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Slovenia",
+      "countryCode": "SVN",
+      "workers": "11.9"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Belarus",
+      "countryCode": "BLR",
+      "workers": "13"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Uruguay",
+      "countryCode": "URY",
+      "workers": "14"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Estonia",
+      "countryCode": "EST",
+      "workers": "16"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Lithuania",
+      "countryCode": "LTU",
+      "workers": "18"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Seychelles",
+      "countryCode": "SYC",
+      "workers": "2"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Dominican Republic",
+      "countryCode": "DOM",
+      "workers": "2"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Uzbekistan",
+      "countryCode": "UZB",
+      "workers": "2"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Qatar",
+      "countryCode": "QAT",
+      "workers": "2"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Tonga",
+      "countryCode": "TON",
+      "workers": "2"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Peru",
+      "countryCode": "PER",
+      "workers": "2.9"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Sweden",
+      "countryCode": "SWE",
+      "workers": "20"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Argentina",
+      "countryCode": "ARG",
+      "workers": "21"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Poland",
+      "countryCode": "POL",
+      "workers": "24"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "New Zealand",
+      "countryCode": "NZL",
+      "workers": "28"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Brazil",
+      "countryCode": "BRA",
+      "workers": "3"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Azerbaijan",
+      "countryCode": "AZE",
+      "workers": "3"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Armenia",
+      "countryCode": "ARM",
+      "workers": "3"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Costa Rica",
+      "countryCode": "CRI",
+      "workers": "3.9"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Monaco",
+      "countryCode": "MCO",
+      "workers": "31"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Mongolia",
+      "countryCode": "MNG",
+      "workers": "4.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Panama",
+      "countryCode": "PAN",
+      "workers": "4.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Singapore",
+      "countryCode": "SGP",
+      "workers": "4"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Norway",
+      "countryCode": "NOR",
+      "workers": "48.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Romania",
+      "countryCode": "ROU",
+      "workers": "5"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Cook Islands",
+      "countryCode": "COK",
+      "workers": "5"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Republic of Korea",
+      "countryCode": "KOR",
+      "workers": "5"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Greece",
+      "countryCode": "GRC",
+      "workers": "5"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Georgia",
+      "countryCode": "GEO",
+      "workers": "6"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Ukraine",
+      "countryCode": "UKR",
+      "workers": "6.9"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Chile",
+      "countryCode": "CHL",
+      "workers": "6.9"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Bulgaria",
+      "countryCode": "BGR",
+      "workers": "7"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Montenegro",
+      "countryCode": "MNE",
+      "workers": "8"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Cuba",
+      "countryCode": "CUB",
+      "workers": "9.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Israel",
+      "countryCode": "ISR",
+      "workers": "9"
+    },
+    {
+      "type": "Nurses",
+      "country": "Colombia",
+      "countryCode": "COL",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "South Sudan",
+      "countryCode": "SSD",
+      "workers": "0.0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Chad",
+      "countryCode": "TCD",
+      "workers": "0.0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Ecuador",
+      "countryCode": "ECU",
+      "workers": "0.0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Mali",
+      "countryCode": "MLI",
+      "workers": "0.09"
+    },
+    {
+      "type": "Nurses",
+      "country": "Afghanistan",
+      "countryCode": "AFG",
+      "workers": "0.09"
+    },
+    {
+      "type": "Nurses",
+      "country": "Bhutan",
+      "countryCode": "BTN",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Niger",
+      "countryCode": "NER",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Haiti",
+      "countryCode": "HTI",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Senegal",
+      "countryCode": "SEN",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Togo",
+      "countryCode": "TGO",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Cambodia",
+      "countryCode": "KHM",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Gambia",
+      "countryCode": "GMB",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Madagascar",
+      "countryCode": "MDG",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Myanmar",
+      "countryCode": "MMR",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Yemen",
+      "countryCode": "YEM",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Côte d’Ivoire",
+      "countryCode": "CIV",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Congo",
+      "countryCode": "COG",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Gabon",
+      "countryCode": "GAB",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Nepal",
+      "countryCode": "NPL",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Burkina Faso",
+      "countryCode": "BFA",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Angola",
+      "countryCode": "AGO",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Guinea-Bissau",
+      "countryCode": "GNB",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "India",
+      "countryCode": "IND",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Bangladesh",
+      "countryCode": "BGD",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Namibia",
+      "countryCode": "NAM",
+      "workers": "0.9"
+    },
+    {
+      "type": "Nurses",
+      "country": "Grenada",
+      "countryCode": "GRD",
+      "workers": "0.9"
+    },
+    {
+      "type": "Nurses",
+      "country": "Guatemala",
+      "countryCode": "GTM",
+      "workers": "1.0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Syrian Arab Republic",
+      "countryCode": "SYR",
+      "workers": "1.0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Timor-Leste",
+      "countryCode": "TLS",
+      "workers": "1"
+    },
+    {
+      "type": "Nurses",
+      "country": "Rwanda",
+      "countryCode": "RWA",
+      "workers": "1"
+    },
+    {
+      "type": "Nurses",
+      "country": "Zambia",
+      "countryCode": "ZMB",
+      "workers": "1"
+    },
+    {
+      "type": "Nurses",
+      "country": "Fiji",
+      "countryCode": "FJI",
+      "workers": "1"
+    },
+    {
+      "type": "Nurses",
+      "country": "Tajikistan",
+      "countryCode": "TJK",
+      "workers": "1"
+    },
+    {
+      "type": "Nurses",
+      "country": "Samoa",
+      "countryCode": "WSM",
+      "workers": "1"
+    },
+    {
+      "type": "Nurses",
+      "country": "Chile",
+      "countryCode": "CHL",
+      "workers": "1"
+    },
+    {
+      "type": "Nurses",
+      "country": "Saudi Arabia",
+      "countryCode": "SAU",
+      "workers": "10"
+    },
+    {
+      "type": "Nurses",
+      "country": "Armenia",
+      "countryCode": "ARM",
+      "workers": "11"
+    },
+    {
+      "type": "Nurses",
+      "country": "Cook Islands",
+      "countryCode": "COK",
+      "workers": "11"
+    },
+    {
+      "type": "Nurses",
+      "country": "Greece",
+      "countryCode": "GRC",
+      "workers": "12"
+    },
+    {
+      "type": "Nurses",
+      "country": "Republic of Korea",
+      "countryCode": "KOR",
+      "workers": "13"
+    },
+    {
+      "type": "Nurses",
+      "country": "Brunei Darussalam",
+      "countryCode": "BRN",
+      "workers": "15.09"
+    },
+    {
+      "type": "Nurses",
+      "country": "Türkiye",
+      "countryCode": "TUR",
+      "workers": "150"
+    },
+    {
+      "type": "Nurses",
+      "country": "Suriname",
+      "countryCode": "SUR",
+      "workers": "16"
+    },
+    {
+      "type": "Nurses",
+      "country": "Tonga",
+      "countryCode": "TON",
+      "workers": "16.9"
+    },
+    {
+      "type": "Nurses",
+      "country": "Bulgaria",
+      "countryCode": "BGR",
+      "workers": "17"
+    },
+    {
+      "type": "Nurses",
+      "country": "Montenegro",
+      "countryCode": "MNE",
+      "workers": "18"
+    },
+    {
+      "type": "Nurses",
+      "country": "Romania",
+      "countryCode": "ROU",
+      "workers": "18"
+    },
+    {
+      "type": "Nurses",
+      "country": "Eritrea",
+      "countryCode": "ERI",
+      "workers": "2"
+    },
+    {
+      "type": "Nurses",
+      "country": "Mexico",
+      "countryCode": "MEX",
+      "workers": "2"
+    },
+    {
+      "type": "Nurses",
+      "country": "Uganda",
+      "countryCode": "UGA",
+      "workers": "2"
+    },
+    {
+      "type": "Nurses",
+      "country": "Morocco",
+      "countryCode": "MAR",
+      "workers": "2"
+    },
+    {
+      "type": "Nurses",
+      "country": "Indonesia",
+      "countryCode": "IDN",
+      "workers": "2"
+    },
+    {
+      "type": "Nurses",
+      "country": "Estonia",
+      "countryCode": "EST",
+      "workers": "23"
+    },
+    {
+      "type": "Nurses",
+      "country": "Jordan",
+      "countryCode": "JOR",
+      "workers": "3"
+    },
+    {
+      "type": "Nurses",
+      "country": "Belize",
+      "countryCode": "BLZ",
+      "workers": "3"
+    },
+    {
+      "type": "Nurses",
+      "country": "Panama",
+      "countryCode": "PAN",
+      "workers": "3"
+    },
+    {
+      "type": "Nurses",
+      "country": "Zimbabwe",
+      "countryCode": "ZWE",
+      "workers": "3"
+    },
+    {
+      "type": "Nurses",
+      "country": "Poland",
+      "countryCode": "POL",
+      "workers": "30.9"
+    },
+    {
+      "type": "Nurses",
+      "country": "Hungary",
+      "countryCode": "HUN",
+      "workers": "33"
+    },
+    {
+      "type": "Nurses",
+      "country": "Brazil",
+      "countryCode": "BRA",
+      "workers": "34.9"
+    },
+    {
+      "type": "Nurses",
+      "country": "Slovenia",
+      "countryCode": "SVN",
+      "workers": "36"
+    },
+    {
+      "type": "Nurses",
+      "country": "Mongolia",
+      "countryCode": "MNG",
+      "workers": "4"
+    },
+    {
+      "type": "Nurses",
+      "country": "United States of America",
+      "countryCode": "USA",
+      "workers": "4"
+    },
+    {
+      "type": "Nurses",
+      "country": "United Arab Emirates",
+      "countryCode": "ARE",
+      "workers": "4"
+    },
+    {
+      "type": "Nurses",
+      "country": "Vanuatu",
+      "countryCode": "VUT",
+      "workers": "4"
+    },
+    {
+      "type": "Nurses",
+      "country": "Sao Tome and Principe",
+      "countryCode": "STP",
+      "workers": "4"
+    },
+    {
+      "type": "Nurses",
+      "country": "Egypt",
+      "countryCode": "EGY",
+      "workers": "4"
+    },
+    {
+      "type": "Nurses",
+      "country": "Croatia",
+      "countryCode": "HRV",
+      "workers": "41"
+    },
+    {
+      "type": "Nurses",
+      "country": "Lithuania",
+      "countryCode": "LTU",
+      "workers": "49"
+    },
+    {
+      "type": "Nurses",
+      "country": "Costa Rica",
+      "countryCode": "CRI",
+      "workers": "5"
+    },
+    {
+      "type": "Nurses",
+      "country": "Georgia",
+      "countryCode": "GEO",
+      "workers": "5.9"
+    },
+    {
+      "type": "Nurses",
+      "country": "Peru",
+      "countryCode": "PER",
+      "workers": "5.99"
+    },
+    {
+      "type": "Nurses",
+      "country": "Sweden",
+      "countryCode": "SWE",
+      "workers": "50"
+    },
+    {
+      "type": "Nurses",
+      "country": "Saint Lucia",
+      "countryCode": "LCA",
+      "workers": "50"
+    },
+    {
+      "type": "Nurses",
+      "country": "Liberia",
+      "countryCode": "LBR",
+      "workers": "6"
+    },
+    {
+      "type": "Nurses",
+      "country": "Azerbaijan",
+      "countryCode": "AZE",
+      "workers": "6"
+    },
+    {
+      "type": "Nurses",
+      "country": "Malaysia",
+      "countryCode": "MYS",
+      "workers": "6"
+    },
+    {
+      "type": "Nurses",
+      "country": "Albania",
+      "countryCode": "ALB",
+      "workers": "6"
+    },
+    {
+      "type": "Nurses",
+      "country": "Antigua and Barbuda",
+      "countryCode": "ATG",
+      "workers": "7.0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Kyrgyzstan",
+      "countryCode": "KGZ",
+      "workers": "7"
+    },
+    {
+      "type": "Nurses",
+      "country": "Thailand",
+      "countryCode": "THA",
+      "workers": "7"
+    },
+    {
+      "type": "Nurses",
+      "country": "Ghana",
+      "countryCode": "GHA",
+      "workers": "7"
+    },
+    {
+      "type": "Nurses",
+      "country": "New Zealand",
+      "countryCode": "NZL",
+      "workers": "75"
+    },
+    {
+      "type": "Nurses",
+      "country": "Seychelles",
+      "countryCode": "SYC",
+      "workers": "8"
+    },
+    {
+      "type": "Nurses",
+      "country": "Nauru",
+      "countryCode": "NRU",
+      "workers": "8"
+    },
+    {
+      "type": "Nurses",
+      "country": "Cuba",
+      "countryCode": "CUB",
+      "workers": "8.9"
+    },
+    {
+      "type": "Nurses",
+      "country": "Monaco",
+      "countryCode": "MCO",
+      "workers": "83"
+    },
+    {
+      "type": "Nurses",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "workers": "83"
+    },
+    {
+      "type": "Nurses",
+      "country": "Uzbekistan",
+      "countryCode": "UZB",
+      "workers": "9"
+    },
+    {
+      "type": "Nurses",
+      "country": "Qatar",
+      "countryCode": "QAT",
+      "workers": "9.9"
+    },
+    {
+      "type": "Social workers",
+      "country": "Guatemala",
+      "countryCode": "GTM",
+      "workers": "0.00"
+    },
+    {
+      "type": "Social workers",
+      "country": "Chad",
+      "countryCode": "TCD",
+      "workers": "0.00"
+    },
+    {
+      "type": "Social workers",
+      "country": "Guinea",
+      "countryCode": "GIN",
+      "workers": "0.00"
+    },
+    {
+      "type": "Social workers",
+      "country": "Burkina Faso",
+      "countryCode": "BFA",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Myanmar",
+      "countryCode": "MMR",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Mozambique",
+      "countryCode": "MOZ",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Ecuador",
+      "countryCode": "ECU",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Zambia",
+      "countryCode": "ZMB",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Congo",
+      "countryCode": "COG",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Angola",
+      "countryCode": "AGO",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Niger",
+      "countryCode": "NER",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Uganda",
+      "countryCode": "UGA",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Eritrea",
+      "countryCode": "ERI",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Madagascar",
+      "countryCode": "MDG",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Togo",
+      "countryCode": "TGO",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Yemen",
+      "countryCode": "YEM",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "India",
+      "countryCode": "IND",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Senegal",
+      "countryCode": "SEN",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Gabon",
+      "countryCode": "GAB",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Gambia",
+      "countryCode": "GMB",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Mongolia",
+      "countryCode": "MNG",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Azerbaijan",
+      "countryCode": "AZE",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Qatar",
+      "countryCode": "QAT",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Guinea-Bissau",
+      "countryCode": "GNB",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Rwanda",
+      "countryCode": "RWA",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Namibia",
+      "countryCode": "NAM",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Jordan",
+      "countryCode": "JOR",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Brunei Darussalam",
+      "countryCode": "BRN",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Armenia",
+      "countryCode": "ARM",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Dominican Republic",
+      "countryCode": "DOM",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "El Salvador",
+      "countryCode": "SLV",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Suriname",
+      "countryCode": "SUR",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "United Arab Emirates",
+      "countryCode": "ARE",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Haiti",
+      "countryCode": "HTI",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Vanuatu",
+      "countryCode": "VUT",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Egypt",
+      "countryCode": "EGY",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Romania",
+      "countryCode": "ROU",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Sao Tome and Principe",
+      "countryCode": "STP",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Estonia",
+      "countryCode": "EST",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Mexico",
+      "countryCode": "MEX",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Fiji",
+      "countryCode": "FJI",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Saint Lucia",
+      "countryCode": "LCA",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Zimbabwe",
+      "countryCode": "ZWE",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Morocco",
+      "countryCode": "MAR",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Bulgaria",
+      "countryCode": "BGR",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Syrian Arab Republic",
+      "countryCode": "SYR",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Thailand",
+      "countryCode": "THA",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Albania",
+      "countryCode": "ALB",
+      "workers": "1.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Montenegro",
+      "countryCode": "MNE",
+      "workers": "1"
+    },
+    {
+      "type": "Social workers",
+      "country": "Croatia",
+      "countryCode": "HRV",
+      "workers": "1"
+    },
+    {
+      "type": "Social workers",
+      "country": "Cuba",
+      "countryCode": "CUB",
+      "workers": "1"
+    },
+    {
+      "type": "Social workers",
+      "country": "Liberia",
+      "countryCode": "LBR",
+      "workers": "1"
+    },
+    {
+      "type": "Social workers",
+      "country": "Samoa",
+      "countryCode": "WSM",
+      "workers": "1"
+    },
+    {
+      "type": "Social workers",
+      "country": "Timor-Leste",
+      "countryCode": "TLS",
+      "workers": "1"
+    },
+    {
+      "type": "Social workers",
+      "country": "Türkiye",
+      "countryCode": "TUR",
+      "workers": "1"
+    },
+    {
+      "type": "Social workers",
+      "country": "Slovenia",
+      "countryCode": "SVN",
+      "workers": "1.9"
+    },
+    {
+      "type": "Social workers",
+      "country": "Monaco",
+      "countryCode": "MCO",
+      "workers": "10"
+    },
+    {
+      "type": "Social workers",
+      "country": "Cook Islands",
+      "countryCode": "COK",
+      "workers": "17"
+    },
+    {
+      "type": "Social workers",
+      "country": "Grenada",
+      "countryCode": "GRD",
+      "workers": "2"
+    },
+    {
+      "type": "Social workers",
+      "country": "Greece",
+      "countryCode": "GRC",
+      "workers": "3"
+    },
+    {
+      "type": "Social workers",
+      "country": "Saudi Arabia",
+      "countryCode": "SAU",
+      "workers": "3.9"
+    },
+    {
+      "type": "Social workers",
+      "country": "Antigua and Barbuda",
+      "countryCode": "ATG",
+      "workers": "4"
+    },
+    {
+      "type": "Social workers",
+      "country": "Brazil",
+      "countryCode": "BRA",
+      "workers": "6"
+    },
+    {
+      "type": "Social workers",
+      "country": "United States of America",
+      "countryCode": "USA",
+      "workers": "60"
+    },
+    {
+      "type": "Social workers",
+      "country": "Costa Rica",
+      "countryCode": "CRI",
+      "workers": "76.9"
+    },
+    {
+      "type": "Social workers",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "workers": "8"
+    },
+    {
+      "type": "Social workers",
+      "country": "Republic of Korea",
+      "countryCode": "KOR",
+      "workers": "8"
+    },
+    {
+      "type": "Social workers",
+      "country": "Panama",
+      "countryCode": "PAN",
+      "workers": "9"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Guyana",
+      "countryCode": "GUY",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Guinea",
+      "countryCode": "GIN",
+      "workers": "0.00"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Mali",
+      "countryCode": "MLI",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Niger",
+      "countryCode": "NER",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Congo",
+      "countryCode": "COG",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Senegal",
+      "countryCode": "SEN",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Burkina Faso",
+      "countryCode": "BFA",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Zambia",
+      "countryCode": "ZMB",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Uganda",
+      "countryCode": "UGA",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Zimbabwe",
+      "countryCode": "ZWE",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Madagascar",
+      "countryCode": "MDG",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Ghana",
+      "countryCode": "GHA",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "India",
+      "countryCode": "IND",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Timor-Leste",
+      "countryCode": "TLS",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Eritrea",
+      "countryCode": "ERI",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Uzbekistan",
+      "countryCode": "UZB",
+      "workers": "0.09"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Mongolia",
+      "countryCode": "MNG",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Guinea-Bissau",
+      "countryCode": "GNB",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Bangladesh",
+      "countryCode": "BGD",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Indonesia",
+      "countryCode": "IDN",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Angola",
+      "countryCode": "AGO",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Egypt",
+      "countryCode": "EGY",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "South Sudan",
+      "countryCode": "SSD",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Afghanistan",
+      "countryCode": "AFG",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Mozambique",
+      "countryCode": "MOZ",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Rwanda",
+      "countryCode": "RWA",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Togo",
+      "countryCode": "TGO",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Kyrgyzstan",
+      "countryCode": "KGZ",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Yemen",
+      "countryCode": "YEM",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Nepal",
+      "countryCode": "NPL",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Suriname",
+      "countryCode": "SUR",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Fiji",
+      "countryCode": "FJI",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Haiti",
+      "countryCode": "HTI",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Morocco",
+      "countryCode": "MAR",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "United Arab Emirates",
+      "countryCode": "ARE",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Vanuatu",
+      "countryCode": "VUT",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Gabon",
+      "countryCode": "GAB",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Armenia",
+      "countryCode": "ARM",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Philippines",
+      "countryCode": "PHL",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Malaysia",
+      "countryCode": "MYS",
+      "workers": "1.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Syrian Arab Republic",
+      "countryCode": "SYR",
+      "workers": "1.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Belize",
+      "countryCode": "BLZ",
+      "workers": "1"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Azerbaijan",
+      "countryCode": "AZE",
+      "workers": "1"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Albania",
+      "countryCode": "ALB",
+      "workers": "1"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Jordan",
+      "countryCode": "JOR",
+      "workers": "1"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Qatar",
+      "countryCode": "QAT",
+      "workers": "1"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Namibia",
+      "countryCode": "NAM",
+      "workers": "1"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Romania",
+      "countryCode": "ROU",
+      "workers": "1"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Republic of Korea",
+      "countryCode": "KOR",
+      "workers": "1"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Thailand",
+      "countryCode": "THA",
+      "workers": "1"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Bulgaria",
+      "countryCode": "BGR",
+      "workers": "1"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Tonga",
+      "countryCode": "TON",
+      "workers": "1"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Cook Islands",
+      "countryCode": "COK",
+      "workers": "11"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Brazil",
+      "countryCode": "BRA",
+      "workers": "12"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Costa Rica",
+      "countryCode": "CRI",
+      "workers": "14"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Lithuania",
+      "countryCode": "LTU",
+      "workers": "15"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Poland",
+      "countryCode": "POL",
+      "workers": "16"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Saudi Arabia",
+      "countryCode": "SAU",
+      "workers": "2.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "El Salvador",
+      "countryCode": "SLV",
+      "workers": "2.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Georgia",
+      "countryCode": "GEO",
+      "workers": "2"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Hungary",
+      "countryCode": "HUN",
+      "workers": "2"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Türkiye",
+      "countryCode": "TUR",
+      "workers": "2"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Argentina",
+      "countryCode": "ARG",
+      "workers": "22"
+    },
+    {
+      "type": "Psychologists",
+      "country": "United States of America",
+      "countryCode": "USA",
+      "workers": "29"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "workers": "3.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Sao Tome and Principe",
+      "countryCode": "STP",
+      "workers": "3.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Seychelles",
+      "countryCode": "SYC",
+      "workers": "3"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Mexico",
+      "countryCode": "MEX",
+      "workers": "3"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Cuba",
+      "countryCode": "CUB",
+      "workers": "31.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Croatia",
+      "countryCode": "HRV",
+      "workers": "4"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Guatemala",
+      "countryCode": "GTM",
+      "workers": "46"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Brunei Darussalam",
+      "countryCode": "BRN",
+      "workers": "5.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Belarus",
+      "countryCode": "BLR",
+      "workers": "5"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Monaco",
+      "countryCode": "MCO",
+      "workers": "53"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Estonia",
+      "countryCode": "EST",
+      "workers": "6"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Cambodia",
+      "countryCode": "KHM",
+      "workers": "7.09"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Panama",
+      "countryCode": "PAN",
+      "workers": "7"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Dominican Republic",
+      "countryCode": "DOM",
+      "workers": "7"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Ecuador",
+      "countryCode": "ECU",
+      "workers": "7"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Norway",
+      "countryCode": "NOR",
+      "workers": "73"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Greece",
+      "countryCode": "GRC",
+      "workers": "8"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Israel",
+      "countryCode": "ISR",
+      "workers": "88.09"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Slovenia",
+      "countryCode": "SVN",
+      "workers": "9"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Peru",
+      "countryCode": "PER",
+      "workers": "9"
+    }
+  ],
+  "2017": [
+    {
+      "type": "Psychiatrists",
+      "country": "Marshall Islands",
+      "countryCode": "MHL",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Burundi",
+      "countryCode": "BDI",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Central African Republic",
+      "countryCode": "CAF",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Sierra Leone",
+      "countryCode": "SLE",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Eswatini",
+      "countryCode": "SWZ",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Ethiopia",
+      "countryCode": "ETH",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Comoros",
+      "countryCode": "COM",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Iraq",
+      "countryCode": "IRQ",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Sri Lanka",
+      "countryCode": "LKA",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Equatorial Guinea",
+      "countryCode": "GNQ",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Nicaragua",
+      "countryCode": "NIC",
+      "workers": "0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "The former Yugoslav Republic of Macedonia",
+      "countryCode": "MKD",
+      "workers": "14"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Canada",
+      "countryCode": "CAN",
+      "workers": "14"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Iran (Islamic Republic of)",
+      "countryCode": "IRN",
+      "workers": "2.0"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Mauritius",
+      "countryCode": "MUS",
+      "workers": "2"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Maldives",
+      "countryCode": "MDV",
+      "workers": "2"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "France",
+      "countryCode": "FRA",
+      "workers": "20.9"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Finland",
+      "countryCode": "FIN",
+      "workers": "23"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Bahrain",
+      "countryCode": "BHR",
+      "workers": "5"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Saint Kitts and Nevis",
+      "countryCode": "KNA",
+      "workers": "5"
+    },
+    {
+      "type": "Psychiatrists",
+      "country": "Serbia",
+      "countryCode": "SRB",
+      "workers": "8"
+    },
+    {
+      "type": "Nurses",
+      "country": "Central African Republic",
+      "countryCode": "CAF",
+      "workers": "0.0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Burundi",
+      "countryCode": "BDI",
+      "workers": "0.0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Tunisia",
+      "countryCode": "TUN",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Sierra Leone",
+      "countryCode": "SLE",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Comoros",
+      "countryCode": "COM",
+      "workers": "0"
+    },
+    {
+      "type": "Nurses",
+      "country": "Ethiopia",
+      "countryCode": "ETH",
+      "workers": "1"
+    },
+    {
+      "type": "Nurses",
+      "country": "Iraq",
+      "countryCode": "IRQ",
+      "workers": "1"
+    },
+    {
+      "type": "Nurses",
+      "country": "Serbia",
+      "countryCode": "SRB",
+      "workers": "13"
+    },
+    {
+      "type": "Nurses",
+      "country": "Bahrain",
+      "countryCode": "BHR",
+      "workers": "27.9"
+    },
+    {
+      "type": "Nurses",
+      "country": "Sri Lanka",
+      "countryCode": "LKA",
+      "workers": "3"
+    },
+    {
+      "type": "Nurses",
+      "country": "Marshall Islands",
+      "countryCode": "MHL",
+      "workers": "3"
+    },
+    {
+      "type": "Nurses",
+      "country": "Saint Vincent and the Grenadines",
+      "countryCode": "VCT",
+      "workers": "4"
+    },
+    {
+      "type": "Nurses",
+      "country": "Equatorial Guinea",
+      "countryCode": "GNQ",
+      "workers": "5"
+    },
+    {
+      "type": "Nurses",
+      "country": "Finland",
+      "countryCode": "FIN",
+      "workers": "51.9"
+    },
+    {
+      "type": "Nurses",
+      "country": "Canada",
+      "countryCode": "CAN",
+      "workers": "68"
+    },
+    {
+      "type": "Nurses",
+      "country": "Eswatini",
+      "countryCode": "SWZ",
+      "workers": "9"
+    },
+    {
+      "type": "Nurses",
+      "country": "Iran (Islamic Republic of)",
+      "countryCode": "IRN",
+      "workers": "9"
+    },
+    {
+      "type": "Nurses",
+      "country": "France",
+      "countryCode": "FRA",
+      "workers": "98.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Central African Republic",
+      "countryCode": "CAF",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Sierra Leone",
+      "countryCode": "SLE",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Ethiopia",
+      "countryCode": "ETH",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Burundi",
+      "countryCode": "BDI",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Equatorial Guinea",
+      "countryCode": "GNQ",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Iraq",
+      "countryCode": "IRQ",
+      "workers": "0.0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Eswatini",
+      "countryCode": "SWZ",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Sri Lanka",
+      "countryCode": "LKA",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Serbia",
+      "countryCode": "SRB",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "Maldives",
+      "countryCode": "MDV",
+      "workers": "0"
+    },
+    {
+      "type": "Social workers",
+      "country": "The former Yugoslav Republic of Macedonia",
+      "countryCode": "MKD",
+      "workers": "1"
+    },
+    {
+      "type": "Social workers",
+      "country": "Bahrain",
+      "countryCode": "BHR",
+      "workers": "1"
+    },
+    {
+      "type": "Social workers",
+      "country": "Iran (Islamic Republic of)",
+      "countryCode": "IRN",
+      "workers": "1"
+    },
+    {
+      "type": "Social workers",
+      "country": "Mauritius",
+      "countryCode": "MUS",
+      "workers": "1"
+    },
+    {
+      "type": "Social workers",
+      "country": "Saint Vincent and the Grenadines",
+      "countryCode": "VCT",
+      "workers": "1"
+    },
+    {
+      "type": "Social workers",
+      "country": "Canada",
+      "countryCode": "CAN",
+      "workers": "14"
+    },
+    {
+      "type": "Social workers",
+      "country": "Finland",
+      "countryCode": "FIN",
+      "workers": "2"
+    },
+    {
+      "type": "Social workers",
+      "country": "Nicaragua",
+      "countryCode": "NIC",
+      "workers": "3"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Tunisia",
+      "countryCode": "TUN",
+      "workers": "0.00"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Sierra Leone",
+      "countryCode": "SLE",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Ethiopia",
+      "countryCode": "ETH",
+      "workers": "0.0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Iraq",
+      "countryCode": "IRQ",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Sri Lanka",
+      "countryCode": "LKA",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Eswatini",
+      "countryCode": "SWZ",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Equatorial Guinea",
+      "countryCode": "GNQ",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Burundi",
+      "countryCode": "BDI",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Comoros",
+      "countryCode": "COM",
+      "workers": "0"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Bahrain",
+      "countryCode": "BHR",
+      "workers": "1"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Nicaragua",
+      "countryCode": "NIC",
+      "workers": "1"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Saint Vincent and the Grenadines",
+      "countryCode": "VCT",
+      "workers": "1"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Marshall Islands",
+      "countryCode": "MHL",
+      "workers": "1"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Finland",
+      "countryCode": "FIN",
+      "workers": "109"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Maldives",
+      "countryCode": "MDV",
+      "workers": "2"
+    },
+    {
+      "type": "Psychologists",
+      "country": "The former Yugoslav Republic of Macedonia",
+      "countryCode": "MKD",
+      "workers": "2"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Serbia",
+      "countryCode": "SRB",
+      "workers": "4"
+    },
+    {
+      "type": "Psychologists",
+      "country": "France",
+      "countryCode": "FRA",
+      "workers": "48"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Canada",
+      "countryCode": "CAN",
+      "workers": "48"
+    },
+    {
+      "type": "Psychologists",
+      "country": "Iran (Islamic Republic of)",
+      "countryCode": "IRN",
+      "workers": "5"
+    }
+  ],
+  "2018": [],
+  "2019": []
+}
