@@ -11,10 +11,26 @@ import {
 // import array from countries.json
 import countries from "./countries.json";
 import data from "./data.json";
+import suicide_rates from "./suicide_rates.json";
+import mental_healthcare_workers from "./mental_healthcare_workers3.json";
+import { Modal } from "./modal";
 
 const Map = () => {
   const [position, setPosition] = useState({ coordinates: [0, 0], zoom: 1 });
   const [gender, setGender] = useState("both");
+
+  const [data, setData] = useState({
+    country: "",
+    Nurses: "",
+    Psychiatrists: "",
+    Psychologists: "",
+    SocialWorkers: "",
+    year: "",
+    totalWorkers: "",
+    suicideRate: { male: "", female: "", both: "" },
+  });
+
+  const [isOpen, setIsOpen] = useState(false);
 
   function handleZoomIn() {
     if (position.zoom >= 4) return;
@@ -111,6 +127,9 @@ const Map = () => {
                 onMouseEnter={() => {
                   console.log(country);
                 }}
+                onClick={() => {
+                  setIsOpen(true);
+                }}
               />
             </Marker>
           ))}
@@ -156,6 +175,7 @@ const Map = () => {
         </select>
         {gender}
       </div>
+      <Modal data={data} isOpen={isOpen} setIsOpen={(val) => setIsOpen(val)} />
     </div>
   );
 };
