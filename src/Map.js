@@ -19,7 +19,7 @@ const Map = () => {
   const [position, setPosition] = useState({ coordinates: [0, 0], zoom: 1 });
   const [gender, setGender] = useState("both");
 
-  const [data, setData] = useState({
+  const [countryData, setCountryData] = useState({
     country: "",
     Nurses: "",
     Psychiatrists: "",
@@ -129,6 +129,23 @@ const Map = () => {
                 }}
                 onClick={() => {
                   setIsOpen(true);
+                  const countryInfo = data.find(
+                    ({ country: mCountry }) => mCountry === name
+                  );
+                  setCountryData({
+                    country: countryInfo.country,
+                    Nurses: parseFloat(countryInfo.nurses),
+                    Psychiatrists: parseFloat(countryInfo.psychiatrists),
+                    Psychologists: parseFloat(countryInfo.psychologists),
+                    SocialWorkers: parseFloat(countryInfo.socialWorkers),
+                    year: countryInfo.year,
+                    totalWorkers: countryInfo.totalWorkers,
+                    suicideRate: {
+                      male: countryInfo.suicideRate.male,
+                      female: countryInfo.suicideRate.female,
+                      both: countryInfo.suicideRate.both,
+                    },
+                  });
                 }}
               />
             </Marker>
@@ -175,7 +192,12 @@ const Map = () => {
         </select>
         {gender}
       </div>
-      <Modal data={data} isOpen={isOpen} setIsOpen={(val) => setIsOpen(val)} />
+      <Modal
+        data={countryData}
+        gender={gender}
+        isOpen={isOpen}
+        setIsOpen={(val) => setIsOpen(val)}
+      />
     </div>
   );
 };
