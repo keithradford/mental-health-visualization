@@ -6,6 +6,7 @@ function App() {
     // align center
     <div>
       <Map />
+      hello
     </div>
   );
 }

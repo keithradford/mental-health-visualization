@@ -10,9 +10,12 @@ import {
 
 // import array from countries.json
 import countries from "./countries.json";
+import suicide_rates from "./suicide_rates.json";
+import mental_healthcare_workers from "./mental_healthcare_workers.json";
 
 const Map = () => {
   const [position, setPosition] = useState({ coordinates: [0, 0], zoom: 1 });
+  const [year, setYear] = useState(2016);
 
   function handleZoomIn() {
     if (position.zoom >= 4) return;
@@ -70,9 +73,27 @@ const Map = () => {
           {countries.map(({ country, longitude, latitude, name }) => (
             <Marker key={name} coordinates={[longitude, latitude]}>
               <circle
-                r={10 / position.zoom}
+                r={
+                  suicide_rates[year].find(
+                    ({ country: srCountry }) => srCountry === name
+                  )
+                    ? suicide_rates[year].find(
+                        ({ country: srCountry }) => srCountry === name
+                      ).suicideRate /
+                      3 /
+                      position.zoom
+                    : 0
+                }
                 fill="#F53"
-                fillOpacity={Math.random() * 1}
+                fillOpacity={
+                  mental_healthcare_workers[year].find(
+                    ({ country: srCountry }) => srCountry === name
+                  )
+                    ? mental_healthcare_workers[year].find(
+                        ({ country: srCountry }) => srCountry === name
+                      ).workers / position.zoom
+                    : 0
+                }
                 stroke="#F53"
                 strokeWidth={0.5}
                 onMouseEnter={() => {
@@ -84,6 +105,7 @@ const Map = () => {
         </ZoomableGroup>
       </ComposableMap>
       <div className="controls">
+        zoom:
         <button onClick={handleZoomIn}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -109,6 +131,33 @@ const Map = () => {
             <line x1="5" y1="12" x2="19" y2="12" />
           </svg>
         </button>
+        change year:
+        <button onClick={() => setYear(year + 1)}>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            strokeWidth="3"
+          >
+            <line x1="12" y1="5" x2="12" y2="19" />
+            <line x1="5" y1="12" x2="19" y2="12" />
+          </svg>
+        </button>
+        <button onClick={() => setYear(year - 1)}>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            strokeWidth="3"
+          >
+            <line x1="5" y1="12" x2="19" y2="12" />
+          </svg>
+        </button>
+        {year}
       </div>
     </div>
   );
