@@ -11,7 +11,7 @@ import {
 // import array from countries.json
 import countries from "./countries.json";
 import suicide_rates from "./suicide_rates.json";
-import mental_healthcare_workers from "./mental_healthcare_workers.json";
+import mental_healthcare_workers from "./mental_healthcare_workers3.json";
 
 const Map = () => {
   const [position, setPosition] = useState({ coordinates: [0, 0], zoom: 1 });
@@ -84,21 +84,42 @@ const Map = () => {
                     ({ country: srCountry, gender: srGender }) =>
                       srCountry === name && srGender === gender
                   )
-                    ? suicide_rates[year].find(
-                        ({ country: srCountry }) => srCountry === name
-                      ).suicideRate /
-                      2 /
-                      position.zoom
+                    ? Math.pow(
+                        suicide_rates[year].find(
+                          ({ country: srCountry, gender: srGender }) =>
+                            srCountry === name && srGender === gender
+                        ).suicideRate /
+                          1.5 /
+                          position.zoom,
+                        0.6
+                      ) * 1.25
                     : 0
                 }
-                fillOpacity={
-                  mental_healthcare_workers[year].find(
-                    ({ country: srCountry }) => srCountry === name
+                stroke={
+                  mental_healthcare_workers.countries.find(
+                    ({ country: srCountry, totalWorkers }) =>
+                      srCountry === name && totalWorkers > 0
                   )
-                    ? mental_healthcare_workers[year].find(
+                    ? "black"
+                    : ""
+                }
+                fill={
+                  mental_healthcare_workers.countries.find(
+                    ({ country: srCountry, totalWorkers }) =>
+                      srCountry === name && totalWorkers > 0
+                  )
+                    ? "blue"
+                    : "red"
+                }
+                fillOpacity={
+                  mental_healthcare_workers.countries.find(
+                    ({ country: srCountry, totalWorkers }) =>
+                      srCountry === name && totalWorkers > 0
+                  )
+                    ? mental_healthcare_workers.countries.find(
                         ({ country: srCountry }) => srCountry === name
-                      ).workers / position.zoom
-                    : 0
+                      ).totalWorkers / 219
+                    : 1
                 }
                 strokeWidth={0.5}
                 onMouseEnter={() => {

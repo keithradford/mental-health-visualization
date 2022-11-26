@@ -8,6 +8,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
 }
 
 code {
@@ -16,8 +17,16 @@ code {
 }
 
 svg {
-  display: inline-block;
-  vertical-align: middle;
+  display: block;
+  margin: 0 auto;
+}
+
+.rsm-svg {
+  margin-top: 50px;
+  border: #33ff7a;
+  border-style: solid;
+  width: 80% !important;
+  max-height: 80vh !important;
 }
 
 .controls {
@@ -46,10 +55,7 @@ svg {
   margin-right: 0.25rem;
 }
 
-.marker > circle {
-  fill: #ff5533 !important;
-}
-
 .marker:hover > circle {
   fill: #33ff7a !important;
+  fill-opacity: 1;
 }

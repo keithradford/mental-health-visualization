@@ -5,8 +5,9 @@ function App() {
   return (
     // align center
     <div>
+      <h1>CSC 411</h1>
+      <h2>The importance of mental healthcare workers</h2>
       <Map />
-      hello
     </div>
   );
 }
