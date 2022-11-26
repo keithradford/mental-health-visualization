@@ -1,4 +1,5 @@
 import "./App.css";
+import BubbleChart from "./BubbleChart";
 import Map from "./Map";
 
 function App() {

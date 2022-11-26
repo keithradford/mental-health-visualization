@@ -10,12 +10,10 @@ import {
 
 // import array from countries.json
 import countries from "./countries.json";
-import suicide_rates from "./suicide_rates.json";
-import mental_healthcare_workers from "./mental_healthcare_workers3.json";
+import data from "./data.json";
 
 const Map = () => {
   const [position, setPosition] = useState({ coordinates: [0, 0], zoom: 1 });
-  const [year, setYear] = useState(2016);
   const [gender, setGender] = useState("both");
 
   function handleZoomIn() {
@@ -80,31 +78,20 @@ const Map = () => {
             >
               <circle
                 r={
-                  suicide_rates[year].find(
-                    ({ country: srCountry, gender: srGender }) =>
-                      srCountry === name && srGender === gender
-                  )
+                  data.find(({ country: srCountry }) => srCountry === name)
                     ? Math.pow(
-                        suicide_rates[year].find(
-                          ({ country: srCountry, gender: srGender }) =>
-                            srCountry === name && srGender === gender
-                        ).suicideRate /
+                        data.find(
+                          ({ country: srCountry }) => srCountry === name
+                        ).suicideRate[gender] /
                           1.5 /
                           position.zoom,
                         0.6
                       ) * 1.25
                     : 0
                 }
-                stroke={
-                  mental_healthcare_workers.countries.find(
-                    ({ country: srCountry, totalWorkers }) =>
-                      srCountry === name && totalWorkers > 0
-                  )
-                    ? "black"
-                    : ""
-                }
+                stroke="black"
                 fill={
-                  mental_healthcare_workers.countries.find(
+                  data.find(
                     ({ country: srCountry, totalWorkers }) =>
                       srCountry === name && totalWorkers > 0
                   )
@@ -112,13 +99,12 @@ const Map = () => {
                     : "red"
                 }
                 fillOpacity={
-                  mental_healthcare_workers.countries.find(
+                  data.find(
                     ({ country: srCountry, totalWorkers }) =>
                       srCountry === name && totalWorkers > 0
                   )
-                    ? mental_healthcare_workers.countries.find(
-                        ({ country: srCountry }) => srCountry === name
-                      ).totalWorkers / 219
+                    ? data.find(({ country: srCountry }) => srCountry === name)
+                        .totalWorkers / 219
                     : 1
                 }
                 strokeWidth={0.5}

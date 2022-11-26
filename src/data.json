@@ -1,0 +1,1542 @@
+[
+  {
+    "country": "Mauritania",
+    "nurses": "0",
+    "psychiatrists": "0.0",
+    "psychologists": "0",
+    "socialWorkers": 0,
+    "year": 2013,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 7.18, "female": 3.93, "both": 5.43 }
+  },
+  {
+    "country": "Belgium",
+    "nurses": "12",
+    "psychiatrists": "20.0",
+    "psychologists": "10",
+    "socialWorkers": "17",
+    "year": 2013,
+    "totalWorkers": 59,
+    "suicideRate": { "male": 22.12, "female": 8.84, "both": 15.38 }
+  },
+  {
+    "country": "Honduras",
+    "nurses": 0,
+    "psychiatrists": "0",
+    "psychologists": "0",
+    "socialWorkers": "0",
+    "year": 2014,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 7.34, "female": 1.03, "both": 4.07 }
+  },
+  {
+    "country": "United Republic of Tanzania",
+    "nurses": "0",
+    "psychiatrists": "0.0",
+    "psychologists": "0.00",
+    "socialWorkers": "0.0",
+    "year": 2015,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 13.64, "female": 3.89, "both": 8.23 }
+  },
+  {
+    "country": "Sudan",
+    "nurses": 0,
+    "psychiatrists": "0.0",
+    "psychologists": 0,
+    "socialWorkers": "0",
+    "year": 2015,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 6.56, "female": 3.3, "both": 4.89 }
+  },
+  {
+    "country": "Jamaica",
+    "nurses": "10",
+    "psychiatrists": "1",
+    "psychologists": "0",
+    "socialWorkers": "0",
+    "year": 2015,
+    "totalWorkers": 11,
+    "suicideRate": { "male": 3.4, "female": 1.01, "both": 2.17 }
+  },
+  {
+    "country": "Lebanon",
+    "nurses": "3",
+    "psychiatrists": "1",
+    "psychologists": "3",
+    "socialWorkers": "1",
+    "year": 2015,
+    "totalWorkers": 8,
+    "suicideRate": { "male": 4.03, "female": 1.73, "both": 2.87 }
+  },
+  {
+    "country": "Oman",
+    "nurses": "3",
+    "psychiatrists": "1",
+    "psychologists": "0",
+    "socialWorkers": 0,
+    "year": 2015,
+    "totalWorkers": 4,
+    "suicideRate": { "male": 6.8, "female": 1.28, "both": 4.7 }
+  },
+  {
+    "country": "Czechia",
+    "nurses": "30",
+    "psychiatrists": "12",
+    "psychologists": "2",
+    "socialWorkers": "1",
+    "year": 2015,
+    "totalWorkers": 45,
+    "suicideRate": { "male": 17.48, "female": 3.89, "both": 10.49 }
+  },
+  {
+    "country": "Germany",
+    "nurses": 0,
+    "psychiatrists": "13",
+    "psychologists": "49",
+    "socialWorkers": 0,
+    "year": 2015,
+    "totalWorkers": 62,
+    "suicideRate": { "male": 13.53, "female": 4.73, "both": 9 }
+  },
+  {
+    "country": "Australia",
+    "nurses": "90",
+    "psychiatrists": "13",
+    "psychologists": "10",
+    "socialWorkers": 0,
+    "year": 2015,
+    "totalWorkers": 113,
+    "suicideRate": { "male": 17.74, "female": 5.97, "both": 11.81 }
+  },
+  {
+    "country": "Luxembourg",
+    "nurses": 0,
+    "psychiatrists": "17",
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2015,
+    "totalWorkers": 17,
+    "suicideRate": { "male": 13.03, "female": 6.19, "both": 9.57 }
+  },
+  {
+    "country": "China",
+    "nurses": "5",
+    "psychiatrists": "2",
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2015,
+    "totalWorkers": 7,
+    "suicideRate": { "male": 9.04, "female": 5.25, "both": 7.08 }
+  },
+  {
+    "country": "Netherlands",
+    "nurses": 0,
+    "psychiatrists": "20",
+    "psychologists": "12",
+    "socialWorkers": 0,
+    "year": 2015,
+    "totalWorkers": 32,
+    "suicideRate": { "male": 12.66, "female": 6, "both": 9.31 }
+  },
+  {
+    "country": "Republic of Moldova",
+    "nurses": "14",
+    "psychiatrists": "4",
+    "psychologists": "0.9",
+    "socialWorkers": "0",
+    "year": 2015,
+    "totalWorkers": 18,
+    "suicideRate": { "male": 24.02, "female": 4.68, "both": 13.68 }
+  },
+  {
+    "country": "Switzerland",
+    "nurses": "92",
+    "psychiatrists": "43.9",
+    "psychologists": "84",
+    "socialWorkers": 0,
+    "year": 2015,
+    "totalWorkers": 219,
+    "suicideRate": { "male": 15.17, "female": 6.03, "both": 10.5 }
+  },
+  {
+    "country": "Italy",
+    "nurses": "23",
+    "psychiatrists": "5.9",
+    "psychologists": "3",
+    "socialWorkers": "2",
+    "year": 2015,
+    "totalWorkers": 33,
+    "suicideRate": { "male": 7.62, "female": 2.23, "both": 4.83 }
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "nurses": "22",
+    "psychiatrists": "8.0",
+    "psychologists": "1",
+    "socialWorkers": "0",
+    "year": 2015,
+    "totalWorkers": 31,
+    "suicideRate": { "male": 13.57, "female": 3.56, "both": 8.33 }
+  },
+  {
+    "country": "Russian Federation",
+    "nurses": 0,
+    "psychiatrists": "8",
+    "psychologists": "4",
+    "socialWorkers": "2",
+    "year": 2015,
+    "totalWorkers": 14,
+    "suicideRate": { "male": 49.47, "female": 8.97, "both": 27.87 }
+  },
+  {
+    "country": "Spain",
+    "nurses": "2",
+    "psychiatrists": "9",
+    "psychologists": 0,
+    "socialWorkers": "0",
+    "year": 2015,
+    "totalWorkers": 11,
+    "suicideRate": { "male": 8.52, "female": 2.94, "both": 5.64 }
+  },
+  {
+    "country": "Latvia",
+    "nurses": "22",
+    "psychiatrists": "9.99",
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2015,
+    "totalWorkers": 31,
+    "suicideRate": { "male": 30.52, "female": 5.47, "both": 17.14 }
+  },
+  {
+    "country": "Kiribati",
+    "nurses": "2",
+    "psychiatrists": 0,
+    "psychologists": 0,
+    "socialWorkers": "0",
+    "year": 2015,
+    "totalWorkers": 2,
+    "suicideRate": { "male": 55.33, "female": 9.91, "both": 31.59 }
+  },
+  {
+    "country": "Cyprus",
+    "nurses": "34.9",
+    "psychiatrists": 0,
+    "psychologists": 0,
+    "socialWorkers": "0",
+    "year": 2015,
+    "totalWorkers": 34,
+    "suicideRate": { "male": 6.46, "female": 1.84, "both": 4.17 }
+  },
+  {
+    "country": "Barbados",
+    "nurses": "63",
+    "psychiatrists": 0,
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2015,
+    "totalWorkers": 63,
+    "suicideRate": { "male": 0.5, "female": 0.16, "both": 0.31 }
+  },
+  {
+    "country": "Chad",
+    "nurses": "0.0",
+    "psychiatrists": "0.00",
+    "psychologists": 0,
+    "socialWorkers": "0.00",
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 20.81, "female": 7.24, "both": 13.68 }
+  },
+  {
+    "country": "Niger",
+    "nurses": "0",
+    "psychiatrists": "0.0",
+    "psychologists": "0.0",
+    "socialWorkers": "0.0",
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 14.22, "female": 6.49, "both": 10.22 }
+  },
+  {
+    "country": "Guinea",
+    "nurses": 0,
+    "psychiatrists": "0.0",
+    "psychologists": "0.00",
+    "socialWorkers": "0.00",
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 19.01, "female": 8.43, "both": 12.79 }
+  },
+  {
+    "country": "South Sudan",
+    "nurses": "0.0",
+    "psychiatrists": "0.0",
+    "psychologists": "0",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 10, "female": 3.33, "both": 6.48 }
+  },
+  {
+    "country": "Mali",
+    "nurses": "0.09",
+    "psychiatrists": "0.0",
+    "psychologists": "0.0",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 10.73, "female": 6.12, "both": 8.29 }
+  },
+  {
+    "country": "Burkina Faso",
+    "nurses": "0",
+    "psychiatrists": "0.0",
+    "psychologists": "0.0",
+    "socialWorkers": "0.0",
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 25.79, "female": 6.96, "both": 15.16 }
+  },
+  {
+    "country": "Liberia",
+    "nurses": "6",
+    "psychiatrists": "0.0",
+    "psychologists": 0,
+    "socialWorkers": "1",
+    "year": 2016,
+    "totalWorkers": 7,
+    "suicideRate": { "male": 9.13, "female": 6.22, "both": 7.62 }
+  },
+  {
+    "country": "Mozambique",
+    "nurses": 0,
+    "psychiatrists": "0.0",
+    "psychologists": "0",
+    "socialWorkers": "0.0",
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 43.53, "female": 8.7, "both": 23.4 }
+  },
+  {
+    "country": "Togo",
+    "nurses": "0",
+    "psychiatrists": "0.0",
+    "psychologists": "0",
+    "socialWorkers": "0.0",
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 25.62, "female": 7.22, "both": 15.97 }
+  },
+  {
+    "country": "Zambia",
+    "nurses": "1",
+    "psychiatrists": "0.0",
+    "psychologists": "0.0",
+    "socialWorkers": "0.0",
+    "year": 2016,
+    "totalWorkers": 1,
+    "suicideRate": { "male": 29.14, "female": 6.73, "both": 16.71 }
+  },
+  {
+    "country": "Angola",
+    "nurses": "0",
+    "psychiatrists": "0.0",
+    "psychologists": "0",
+    "socialWorkers": "0.0",
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 21.84, "female": 5.1, "both": 12.87 }
+  },
+  {
+    "country": "Ghana",
+    "nurses": "7",
+    "psychiatrists": "0.0",
+    "psychologists": "0.0",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 7,
+    "suicideRate": { "male": 22.18, "female": 2.09, "both": 11.74 }
+  },
+  {
+    "country": "Madagascar",
+    "nurses": "0",
+    "psychiatrists": "0.0",
+    "psychologists": "0.0",
+    "socialWorkers": "0.0",
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 13.8, "female": 5.53, "both": 9.47 }
+  },
+  {
+    "country": "Rwanda",
+    "nurses": "1",
+    "psychiatrists": "0.0",
+    "psychologists": "0",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 1,
+    "suicideRate": { "male": 15.07, "female": 5.3, "both": 9.73 }
+  },
+  {
+    "country": "Haiti",
+    "nurses": "0",
+    "psychiatrists": "0.0",
+    "psychologists": "0",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 15.08, "female": 8.71, "both": 11.64 }
+  },
+  {
+    "country": "Congo",
+    "nurses": "0",
+    "psychiatrists": "0.0",
+    "psychologists": "0.0",
+    "socialWorkers": "0.0",
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 18.61, "female": 7.12, "both": 12.29 }
+  },
+  {
+    "country": "Timor-Leste",
+    "nurses": "1",
+    "psychiatrists": "0.0",
+    "psychologists": "0.0",
+    "socialWorkers": "1",
+    "year": 2016,
+    "totalWorkers": 2,
+    "suicideRate": { "male": 6.5, "female": 2.44, "both": 4.45 }
+  },
+  {
+    "country": "Uganda",
+    "nurses": "2",
+    "psychiatrists": "0.0",
+    "psychologists": "0.0",
+    "socialWorkers": "0.0",
+    "year": 2016,
+    "totalWorkers": 2,
+    "suicideRate": { "male": 20.49, "female": 4.01, "both": 11.06 }
+  },
+  {
+    "country": "Zimbabwe",
+    "nurses": "3",
+    "psychiatrists": "0.09",
+    "psychologists": "0.0",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 3,
+    "suicideRate": { "male": 44.48, "female": 17.71, "both": 28.7 }
+  },
+  {
+    "country": "Gambia",
+    "nurses": "0",
+    "psychiatrists": "0",
+    "psychologists": 0,
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 13.63, "female": 6.45, "both": 9.94 }
+  },
+  {
+    "country": "Bangladesh",
+    "nurses": "0",
+    "psychiatrists": "0",
+    "psychologists": "0",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 5.45, "female": 1.72, "both": 3.6 }
+  },
+  {
+    "country": "Côte d’Ivoire",
+    "nurses": "0",
+    "psychiatrists": "0",
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 27.75, "female": 5.48, "both": 17 }
+  },
+  {
+    "country": "Kenya",
+    "nurses": 0,
+    "psychiatrists": "0",
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 17.25, "female": 5.01, "both": 10.45 }
+  },
+  {
+    "country": "Senegal",
+    "nurses": "0",
+    "psychiatrists": "0",
+    "psychologists": "0.0",
+    "socialWorkers": "0.0",
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 19.24, "female": 5.54, "both": 11.53 }
+  },
+  {
+    "country": "Yemen",
+    "nurses": "0",
+    "psychiatrists": "0",
+    "psychologists": "0",
+    "socialWorkers": "0.0",
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 8.99, "female": 5.07, "both": 6.98 }
+  },
+  {
+    "country": "Mexico",
+    "nurses": "2",
+    "psychiatrists": "0",
+    "psychologists": "3",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 5,
+    "suicideRate": { "male": 9.37, "female": 2.08, "both": 5.57 }
+  },
+  {
+    "country": "Fiji",
+    "nurses": "1",
+    "psychiatrists": "0",
+    "psychologists": "0",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 1,
+    "suicideRate": { "male": 13.95, "female": 6.09, "both": 10.03 }
+  },
+  {
+    "country": "Afghanistan",
+    "nurses": "0.09",
+    "psychiatrists": "0",
+    "psychologists": "0",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 6.15, "female": 5.83, "both": 6.01 }
+  },
+  {
+    "country": "Gabon",
+    "nurses": "0",
+    "psychiatrists": "0",
+    "psychologists": "0",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 25.67, "female": 4.4, "both": 14.55 }
+  },
+  {
+    "country": "India",
+    "nurses": "0",
+    "psychiatrists": "0",
+    "psychologists": "0.0",
+    "socialWorkers": "0.0",
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 14.41, "female": 10.79, "both": 12.6 }
+  },
+  {
+    "country": "Indonesia",
+    "nurses": "2",
+    "psychiatrists": "0",
+    "psychologists": "0",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 2,
+    "suicideRate": { "male": 3.98, "female": 1.22, "both": 2.58 }
+  },
+  {
+    "country": "Nepal",
+    "nurses": "0",
+    "psychiatrists": "0",
+    "psychologists": "0",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 18.44, "female": 2.97, "both": 9.68 }
+  },
+  {
+    "country": "Namibia",
+    "nurses": "0.9",
+    "psychiatrists": "0",
+    "psychologists": "1",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 1,
+    "suicideRate": { "male": 25.94, "female": 6.13, "both": 14.92 }
+  },
+  {
+    "country": "Syrian Arab Republic",
+    "nurses": "1.0",
+    "psychiatrists": "0",
+    "psychologists": "1.0",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 2,
+    "suicideRate": { "male": 2.96, "female": 0.73, "both": 1.83 }
+  },
+  {
+    "country": "Myanmar",
+    "nurses": "0",
+    "psychiatrists": "0",
+    "psychologists": 0,
+    "socialWorkers": "0.0",
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 5.74, "female": 1.22, "both": 3.33 }
+  },
+  {
+    "country": "Vanuatu",
+    "nurses": "4",
+    "psychiatrists": "0",
+    "psychologists": "0",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 4,
+    "suicideRate": { "male": 33.34, "female": 8.82, "both": 21 }
+  },
+  {
+    "country": "Cambodia",
+    "nurses": "0",
+    "psychiatrists": "0",
+    "psychologists": "7.09",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 7,
+    "suicideRate": { "male": 8.77, "female": 3.19, "both": 5.75 }
+  },
+  {
+    "country": "Ecuador",
+    "nurses": "0.0",
+    "psychiatrists": "0",
+    "psychologists": "7",
+    "socialWorkers": "0.0",
+    "year": 2016,
+    "totalWorkers": 7,
+    "suicideRate": { "male": 13.98, "female": 4.26, "both": 9.06 }
+  },
+  {
+    "country": "Guatemala",
+    "nurses": "1.0",
+    "psychiatrists": "0",
+    "psychologists": "46",
+    "socialWorkers": "0.00",
+    "year": 2016,
+    "totalWorkers": 47,
+    "suicideRate": { "male": 10.04, "female": 2.8, "both": 6.21 }
+  },
+  {
+    "country": "Bhutan",
+    "nurses": "0",
+    "psychiatrists": "0",
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 6.74, "female": 3.08, "both": 5.05 }
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "nurses": "4",
+    "psychiatrists": "0",
+    "psychologists": "3.0",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 7,
+    "suicideRate": { "male": 3.24, "female": 1.17, "both": 2.16 }
+  },
+  {
+    "country": "Philippines",
+    "nurses": 0,
+    "psychiatrists": "0",
+    "psychologists": "0",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 4.17, "female": 1.28, "both": 2.67 }
+  },
+  {
+    "country": "Saint Lucia",
+    "nurses": "50",
+    "psychiatrists": "0",
+    "psychologists": 0,
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 50,
+    "suicideRate": { "male": 12.11, "female": 1.47, "both": 6.65 }
+  },
+  {
+    "country": "Thailand",
+    "nurses": "7",
+    "psychiatrists": "0",
+    "psychologists": "1",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 8,
+    "suicideRate": { "male": 12.99, "female": 2.48, "both": 7.59 }
+  },
+  {
+    "country": "Morocco",
+    "nurses": "2",
+    "psychiatrists": "0",
+    "psychologists": "0",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 2,
+    "suicideRate": { "male": 9.86, "female": 5.14, "both": 7.41 }
+  },
+  {
+    "country": "El Salvador",
+    "nurses": 0,
+    "psychiatrists": "0",
+    "psychologists": "2.0",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 2,
+    "suicideRate": { "male": 10.22, "female": 2.2, "both": 5.77 }
+  },
+  {
+    "country": "Guyana",
+    "nurses": 0,
+    "psychiatrists": "0.9",
+    "psychologists": "0",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 63.84, "female": 16.08, "both": 39.65 }
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "nurses": "7.0",
+    "psychiatrists": "1",
+    "psychologists": 0,
+    "socialWorkers": "4",
+    "year": 2016,
+    "totalWorkers": 12,
+    "suicideRate": { "male": 0, "female": 0.93, "both": 0.49 }
+  },
+  {
+    "country": "Malaysia",
+    "nurses": "6",
+    "psychiatrists": "1.0",
+    "psychologists": "1.0",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 8,
+    "suicideRate": { "male": 8.2, "female": 2.41, "both": 5.37 }
+  },
+  {
+    "country": "Jordan",
+    "nurses": "3",
+    "psychiatrists": "1",
+    "psychologists": "1",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 5,
+    "suicideRate": { "male": 2.8, "female": 0.91, "both": 1.86 }
+  },
+  {
+    "country": "Bolivia (Plurinational State of)",
+    "nurses": 0,
+    "psychiatrists": "1",
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 1,
+    "suicideRate": { "male": 10.34, "female": 4.67, "both": 7.43 }
+  },
+  {
+    "country": "Brunei Darussalam",
+    "nurses": "15.09",
+    "psychiatrists": "1",
+    "psychologists": "5.0",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 21,
+    "suicideRate": { "male": 3.87, "female": 0.68, "both": 2.38 }
+  },
+  {
+    "country": "Suriname",
+    "nurses": "16",
+    "psychiatrists": "1",
+    "psychologists": "0",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 17,
+    "suicideRate": { "male": 40.31, "female": 11.78, "both": 25.47 }
+  },
+  {
+    "country": "Saudi Arabia",
+    "nurses": "10",
+    "psychiatrists": "1",
+    "psychologists": "2.0",
+    "socialWorkers": "3.9",
+    "year": 2016,
+    "totalWorkers": 16,
+    "suicideRate": { "male": 8.46, "female": 2.19, "both": 5.9 }
+  },
+  {
+    "country": "Belize",
+    "nurses": "3",
+    "psychiatrists": "1",
+    "psychologists": "1",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 5,
+    "suicideRate": { "male": 11.88, "female": 1.54, "both": 6.67 }
+  },
+  {
+    "country": "Tajikistan",
+    "nurses": "1",
+    "psychiatrists": "1",
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 2,
+    "suicideRate": { "male": 7.23, "female": 3.61, "both": 5.38 }
+  },
+  {
+    "country": "Albania",
+    "nurses": "6",
+    "psychiatrists": "1",
+    "psychologists": "1",
+    "socialWorkers": "1.0",
+    "year": 2016,
+    "totalWorkers": 9,
+    "suicideRate": { "male": 5.7, "female": 2.68, "both": 4.17 }
+  },
+  {
+    "country": "South Africa",
+    "nurses": 0,
+    "psychiatrists": "1",
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 1,
+    "suicideRate": { "male": 41.04, "female": 10.46, "both": 25.31 }
+  },
+  {
+    "country": "Samoa",
+    "nurses": "1",
+    "psychiatrists": "1",
+    "psychologists": 0,
+    "socialWorkers": "1",
+    "year": 2016,
+    "totalWorkers": 3,
+    "suicideRate": { "male": 21.58, "female": 8, "both": 15.03 }
+  },
+  {
+    "country": "Egypt",
+    "nurses": "4",
+    "psychiatrists": "1",
+    "psychologists": "0",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 5,
+    "suicideRate": { "male": 5, "female": 2.3, "both": 3.63 }
+  },
+  {
+    "country": "Türkiye",
+    "nurses": "150",
+    "psychiatrists": "1",
+    "psychologists": "2",
+    "socialWorkers": "1",
+    "year": 2016,
+    "totalWorkers": 154,
+    "suicideRate": { "male": 3.37, "female": 1.26, "both": 2.26 }
+  },
+  {
+    "country": "United Arab Emirates",
+    "nurses": "4",
+    "psychiatrists": "1",
+    "psychologists": "0",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 5,
+    "suicideRate": { "male": 5.92, "female": 2.6, "both": 4.97 }
+  },
+  {
+    "country": "Kyrgyzstan",
+    "nurses": "7",
+    "psychiatrists": "1",
+    "psychologists": "0",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 8,
+    "suicideRate": { "male": 15.69, "female": 3.99, "both": 9.58 }
+  },
+  {
+    "country": "Colombia",
+    "nurses": "0",
+    "psychiatrists": "1",
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 1,
+    "suicideRate": { "male": 6.86, "female": 1.6, "both": 4.11 }
+  },
+  {
+    "country": "Grenada",
+    "nurses": "0.9",
+    "psychiatrists": "1",
+    "psychologists": 0,
+    "socialWorkers": "2",
+    "year": 2016,
+    "totalWorkers": 3,
+    "suicideRate": { "male": 0.88, "female": 0.86, "both": 0.91 }
+  },
+  {
+    "country": "United States of America",
+    "nurses": "4",
+    "psychiatrists": "10",
+    "psychologists": "29",
+    "socialWorkers": "60",
+    "year": 2016,
+    "totalWorkers": 103,
+    "suicideRate": { "male": 21.2, "female": 6.27, "both": 13.65 }
+  },
+  {
+    "country": "Hungary",
+    "nurses": "33",
+    "psychiatrists": "11.0",
+    "psychologists": "2",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 46,
+    "suicideRate": { "male": 21.85, "female": 6.09, "both": 13.34 }
+  },
+  {
+    "country": "Croatia",
+    "nurses": "41",
+    "psychiatrists": "11",
+    "psychologists": "4",
+    "socialWorkers": "1",
+    "year": 2016,
+    "totalWorkers": 57,
+    "suicideRate": { "male": 18.79, "female": 5, "both": 11.48 }
+  },
+  {
+    "country": "Japan",
+    "nurses": "83",
+    "psychiatrists": "11",
+    "psychologists": "3.0",
+    "socialWorkers": "8",
+    "year": 2016,
+    "totalWorkers": 105,
+    "suicideRate": { "male": 19.74, "female": 7.74, "both": 13.75 }
+  },
+  {
+    "country": "Slovenia",
+    "nurses": "36",
+    "psychiatrists": "11.9",
+    "psychologists": "9",
+    "socialWorkers": "1.9",
+    "year": 2016,
+    "totalWorkers": 57,
+    "suicideRate": { "male": 23.64, "female": 5.11, "both": 14.29 }
+  },
+  {
+    "country": "Belarus",
+    "nurses": 0,
+    "psychiatrists": "13",
+    "psychologists": "5",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 18,
+    "suicideRate": { "male": 35.51, "female": 5.96, "both": 19.4 }
+  },
+  {
+    "country": "Uruguay",
+    "nurses": 0,
+    "psychiatrists": "14",
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 14,
+    "suicideRate": { "male": 30.32, "female": 8.32, "both": 18.7 }
+  },
+  {
+    "country": "Estonia",
+    "nurses": "23",
+    "psychiatrists": "16",
+    "psychologists": "6",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 45,
+    "suicideRate": { "male": 21.31, "female": 4.79, "both": 12.49 }
+  },
+  {
+    "country": "Lithuania",
+    "nurses": "49",
+    "psychiatrists": "18",
+    "psychologists": "15",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 82,
+    "suicideRate": { "male": 48.63, "female": 6.61, "both": 26.21 }
+  },
+  {
+    "country": "Seychelles",
+    "nurses": "8",
+    "psychiatrists": "2",
+    "psychologists": "3",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 13,
+    "suicideRate": { "male": 13.79, "female": 1.37, "both": 7.64 }
+  },
+  {
+    "country": "Dominican Republic",
+    "nurses": 0,
+    "psychiatrists": "2",
+    "psychologists": "7",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 9,
+    "suicideRate": { "male": 11.34, "female": 2.38, "both": 6.77 }
+  },
+  {
+    "country": "Uzbekistan",
+    "nurses": "9",
+    "psychiatrists": "2",
+    "psychologists": "0.09",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 11,
+    "suicideRate": { "male": 13.15, "female": 5.52, "both": 9.21 }
+  },
+  {
+    "country": "Qatar",
+    "nurses": "9.9",
+    "psychiatrists": "2",
+    "psychologists": "1",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 12,
+    "suicideRate": { "male": 5.81, "female": 1.79, "both": 4.83 }
+  },
+  {
+    "country": "Tonga",
+    "nurses": "16.9",
+    "psychiatrists": "2",
+    "psychologists": "1",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 19,
+    "suicideRate": { "male": 6.42, "female": 3.23, "both": 4.77 }
+  },
+  {
+    "country": "Peru",
+    "nurses": "5.99",
+    "psychiatrists": "2.9",
+    "psychologists": "9",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 16,
+    "suicideRate": { "male": 3.96, "female": 1.41, "both": 2.66 }
+  },
+  {
+    "country": "Sweden",
+    "nurses": "50",
+    "psychiatrists": "20",
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 70,
+    "suicideRate": { "male": 16.74, "female": 7.48, "both": 12.15 }
+  },
+  {
+    "country": "Argentina",
+    "nurses": 0,
+    "psychiatrists": "21",
+    "psychologists": "22",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 43,
+    "suicideRate": { "male": 13.55, "female": 3.08, "both": 8.06 }
+  },
+  {
+    "country": "Poland",
+    "nurses": "30.9",
+    "psychiatrists": "24",
+    "psychologists": "16",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 70,
+    "suicideRate": { "male": 20.5, "female": 2.67, "both": 11.37 }
+  },
+  {
+    "country": "New Zealand",
+    "nurses": "75",
+    "psychiatrists": "28",
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 103,
+    "suicideRate": { "male": 17.24, "female": 6, "both": 11.52 }
+  },
+  {
+    "country": "Brazil",
+    "nurses": "34.9",
+    "psychiatrists": "3",
+    "psychologists": "12",
+    "socialWorkers": "6",
+    "year": 2016,
+    "totalWorkers": 55,
+    "suicideRate": { "male": 9.12, "female": 2.49, "both": 5.67 }
+  },
+  {
+    "country": "Azerbaijan",
+    "nurses": "6",
+    "psychiatrists": "3",
+    "psychologists": "1",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 10,
+    "suicideRate": { "male": 6.51, "female": 1.54, "both": 3.92 }
+  },
+  {
+    "country": "Armenia",
+    "nurses": "11",
+    "psychiatrists": "3",
+    "psychologists": "0",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 14,
+    "suicideRate": { "male": 8.06, "female": 1.67, "both": 4.43 }
+  },
+  {
+    "country": "Costa Rica",
+    "nurses": "5",
+    "psychiatrists": "3.9",
+    "psychologists": "14",
+    "socialWorkers": "76.9",
+    "year": 2016,
+    "totalWorkers": 98,
+    "suicideRate": { "male": 12.41, "female": 2.21, "both": 7.29 }
+  },
+  {
+    "country": "Monaco",
+    "nurses": "83",
+    "psychiatrists": "31",
+    "psychologists": "53",
+    "socialWorkers": "10",
+    "year": 2016,
+    "totalWorkers": 177,
+    "suicideRate": { "male": 0, "female": 0, "both": 0 }
+  },
+  {
+    "country": "Mongolia",
+    "nurses": "4",
+    "psychiatrists": "4.0",
+    "psychologists": "0",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 8,
+    "suicideRate": { "male": 34.01, "female": 6.28, "both": 19.82 }
+  },
+  {
+    "country": "Panama",
+    "nurses": "3",
+    "psychiatrists": "4.0",
+    "psychologists": "7",
+    "socialWorkers": "9",
+    "year": 2016,
+    "totalWorkers": 23,
+    "suicideRate": { "male": 5.72, "female": 1.03, "both": 3.35 }
+  },
+  {
+    "country": "Singapore",
+    "nurses": 0,
+    "psychiatrists": "4",
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 4,
+    "suicideRate": { "male": 9.34, "female": 5.16, "both": 7.3 }
+  },
+  {
+    "country": "Norway",
+    "nurses": 0,
+    "psychiatrists": "48.0",
+    "psychologists": "73",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 121,
+    "suicideRate": { "male": 14.7, "female": 7.31, "both": 11.08 }
+  },
+  {
+    "country": "Romania",
+    "nurses": "18",
+    "psychiatrists": "5",
+    "psychologists": "1",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 24,
+    "suicideRate": { "male": 13.58, "female": 2.33, "both": 7.76 }
+  },
+  {
+    "country": "Cook Islands",
+    "nurses": "11",
+    "psychiatrists": "5",
+    "psychologists": "11",
+    "socialWorkers": "17",
+    "year": 2016,
+    "totalWorkers": 44,
+    "suicideRate": { "male": 0, "female": 0, "both": 0 }
+  },
+  {
+    "country": "Republic of Korea",
+    "nurses": "13",
+    "psychiatrists": "5",
+    "psychologists": "1",
+    "socialWorkers": "8",
+    "year": 2016,
+    "totalWorkers": 27,
+    "suicideRate": { "male": 29.75, "female": 12.23, "both": 20.49 }
+  },
+  {
+    "country": "Greece",
+    "nurses": "12",
+    "psychiatrists": "5",
+    "psychologists": "8",
+    "socialWorkers": "3",
+    "year": 2016,
+    "totalWorkers": 28,
+    "suicideRate": { "male": 5.67, "female": 1.28, "both": 3.42 }
+  },
+  {
+    "country": "Georgia",
+    "nurses": "5.9",
+    "psychiatrists": "6",
+    "psychologists": "2",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 13,
+    "suicideRate": { "male": 16.38, "female": 2.58, "both": 9.03 }
+  },
+  {
+    "country": "Ukraine",
+    "nurses": 0,
+    "psychiatrists": "6.9",
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 6,
+    "suicideRate": { "male": 32.4, "female": 4.74, "both": 17.56 }
+  },
+  {
+    "country": "Chile",
+    "nurses": "1",
+    "psychiatrists": "6.9",
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 7,
+    "suicideRate": { "male": 15.45, "female": 3.27, "both": 9.18 }
+  },
+  {
+    "country": "Bulgaria",
+    "nurses": "17",
+    "psychiatrists": "7",
+    "psychologists": "1",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 25,
+    "suicideRate": { "male": 10.71, "female": 2.86, "both": 6.57 }
+  },
+  {
+    "country": "Montenegro",
+    "nurses": "18",
+    "psychiatrists": "8",
+    "psychologists": 0,
+    "socialWorkers": "1",
+    "year": 2016,
+    "totalWorkers": 27,
+    "suicideRate": { "male": 24.93, "female": 8.1, "both": 16.08 }
+  },
+  {
+    "country": "Cuba",
+    "nurses": "8.9",
+    "psychiatrists": "9.0",
+    "psychologists": "31.0",
+    "socialWorkers": "1",
+    "year": 2016,
+    "totalWorkers": 49,
+    "suicideRate": { "male": 16.05, "female": 3.79, "both": 9.73 }
+  },
+  {
+    "country": "Israel",
+    "nurses": 0,
+    "psychiatrists": "9",
+    "psychologists": "88.09",
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 97,
+    "suicideRate": { "male": 8.38, "female": 1.87, "both": 5.03 }
+  },
+  {
+    "country": "Guinea-Bissau",
+    "nurses": "0",
+    "psychiatrists": 0,
+    "psychologists": "0",
+    "socialWorkers": "0",
+    "year": 2016,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 21.05, "female": 7.12, "both": 13.15 }
+  },
+  {
+    "country": "Eritrea",
+    "nurses": "2",
+    "psychiatrists": 0,
+    "psychologists": "0.0",
+    "socialWorkers": "0.0",
+    "year": 2016,
+    "totalWorkers": 2,
+    "suicideRate": { "male": 28.82, "female": 8.74, "both": 18.3 }
+  },
+  {
+    "country": "Nauru",
+    "nurses": "8",
+    "psychiatrists": 0,
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2016,
+    "totalWorkers": 8,
+    "suicideRate": { "male": 0, "female": 0, "both": 0 }
+  },
+  {
+    "country": "Marshall Islands",
+    "nurses": "3",
+    "psychiatrists": "0",
+    "psychologists": "1",
+    "socialWorkers": 0,
+    "year": 2017,
+    "totalWorkers": 4,
+    "suicideRate": { "male": 0, "female": 0, "both": 0 }
+  },
+  {
+    "country": "Burundi",
+    "nurses": "0.0",
+    "psychiatrists": "0.0",
+    "psychologists": "0",
+    "socialWorkers": "0.0",
+    "year": 2017,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 19.4, "female": 6.59, "both": 12.46 }
+  },
+  {
+    "country": "Central African Republic",
+    "nurses": "0.0",
+    "psychiatrists": "0.0",
+    "psychologists": 0,
+    "socialWorkers": "0.0",
+    "year": 2017,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 44.9, "female": 9.64, "both": 25.73 }
+  },
+  {
+    "country": "Sierra Leone",
+    "nurses": "0",
+    "psychiatrists": "0.0",
+    "psychologists": "0.0",
+    "socialWorkers": "0.0",
+    "year": 2017,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 14.44, "female": 7.91, "both": 10.94 }
+  },
+  {
+    "country": "Eswatini",
+    "nurses": "9",
+    "psychiatrists": "0.0",
+    "psychologists": "0",
+    "socialWorkers": "0",
+    "year": 2017,
+    "totalWorkers": 9,
+    "suicideRate": { "male": 83.61, "female": 7.03, "both": 42.91 }
+  },
+  {
+    "country": "Ethiopia",
+    "nurses": "1",
+    "psychiatrists": "0.0",
+    "psychologists": "0.0",
+    "socialWorkers": "0.0",
+    "year": 2017,
+    "totalWorkers": 1,
+    "suicideRate": { "male": 14.47, "female": 5.25, "both": 9.63 }
+  },
+  {
+    "country": "Comoros",
+    "nurses": "0",
+    "psychiatrists": "0",
+    "psychologists": "0",
+    "socialWorkers": 0,
+    "year": 2017,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 11.48, "female": 5.92, "both": 8.58 }
+  },
+  {
+    "country": "Iraq",
+    "nurses": "1",
+    "psychiatrists": "0",
+    "psychologists": "0",
+    "socialWorkers": "0.0",
+    "year": 2017,
+    "totalWorkers": 1,
+    "suicideRate": { "male": 7.79, "female": 2.74, "both": 5.17 }
+  },
+  {
+    "country": "Sri Lanka",
+    "nurses": "3",
+    "psychiatrists": "0",
+    "psychologists": "0",
+    "socialWorkers": "0",
+    "year": 2017,
+    "totalWorkers": 3,
+    "suicideRate": { "male": 22.23, "female": 6.4, "both": 13.67 }
+  },
+  {
+    "country": "Equatorial Guinea",
+    "nurses": "5",
+    "psychiatrists": "0",
+    "psychologists": "0",
+    "socialWorkers": "0.0",
+    "year": 2017,
+    "totalWorkers": 5,
+    "suicideRate": { "male": 17.89, "female": 8.62, "both": 13.16 }
+  },
+  {
+    "country": "Nicaragua",
+    "nurses": 0,
+    "psychiatrists": "0",
+    "psychologists": "1",
+    "socialWorkers": "3",
+    "year": 2017,
+    "totalWorkers": 4,
+    "suicideRate": { "male": 7.68, "female": 2.12, "both": 4.73 }
+  },
+  {
+    "country": "The former Yugoslav Republic of Macedonia",
+    "nurses": 0,
+    "psychiatrists": "14",
+    "psychologists": "2",
+    "socialWorkers": "1",
+    "year": 2017,
+    "totalWorkers": 17,
+    "suicideRate": { "male": 11.14, "female": 3.54, "both": 7.23 }
+  },
+  {
+    "country": "Canada",
+    "nurses": "68",
+    "psychiatrists": "14",
+    "psychologists": "48",
+    "socialWorkers": "14",
+    "year": 2017,
+    "totalWorkers": 144,
+    "suicideRate": { "male": 17.63, "female": 5.77, "both": 11.68 }
+  },
+  {
+    "country": "Iran",
+    "nurses": "9",
+    "psychiatrists": "2.0",
+    "psychologists": "5",
+    "socialWorkers": "1",
+    "year": 2017,
+    "totalWorkers": 17,
+    "suicideRate": { "male": 8.59, "female": 2.96, "both": 5.8 }
+  },
+  {
+    "country": "Mauritius",
+    "nurses": 0,
+    "psychiatrists": "2",
+    "psychologists": 0,
+    "socialWorkers": "1",
+    "year": 2017,
+    "totalWorkers": 3,
+    "suicideRate": { "male": 14.95, "female": 4.3, "both": 9.59 }
+  },
+  {
+    "country": "Maldives",
+    "nurses": 0,
+    "psychiatrists": "2",
+    "psychologists": "2",
+    "socialWorkers": "0",
+    "year": 2017,
+    "totalWorkers": 4,
+    "suicideRate": { "male": 4.61, "female": 0.85, "both": 3.11 }
+  },
+  {
+    "country": "France",
+    "nurses": "98.0",
+    "psychiatrists": "20.9",
+    "psychologists": "48",
+    "socialWorkers": 0,
+    "year": 2017,
+    "totalWorkers": 166,
+    "suicideRate": { "male": 16.35, "female": 4.92, "both": 10.4 }
+  },
+  {
+    "country": "Finland",
+    "nurses": "51.9",
+    "psychiatrists": "23",
+    "psychologists": "109",
+    "socialWorkers": "2",
+    "year": 2017,
+    "totalWorkers": 185,
+    "suicideRate": { "male": 20.77, "female": 8.03, "both": 14.4 }
+  },
+  {
+    "country": "Bahrain",
+    "nurses": "27.9",
+    "psychiatrists": "5",
+    "psychologists": "1",
+    "socialWorkers": "1",
+    "year": 2017,
+    "totalWorkers": 34,
+    "suicideRate": { "male": 9.25, "female": 2.29, "both": 6.73 }
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "nurses": 0,
+    "psychiatrists": "5",
+    "psychologists": 0,
+    "socialWorkers": 0,
+    "year": 2017,
+    "totalWorkers": 5,
+    "suicideRate": { "male": 0, "female": 0, "both": 0 }
+  },
+  {
+    "country": "Serbia",
+    "nurses": "13",
+    "psychiatrists": "8",
+    "psychologists": "4",
+    "socialWorkers": "0",
+    "year": 2017,
+    "totalWorkers": 25,
+    "suicideRate": { "male": 0.26, "female": 0.37, "both": 0.33 }
+  },
+  {
+    "country": "Tunisia",
+    "nurses": "0",
+    "psychiatrists": 0,
+    "psychologists": "0.00",
+    "socialWorkers": 0,
+    "year": 2017,
+    "totalWorkers": 0,
+    "suicideRate": { "male": 4.29, "female": 1.83, "both": 3.01 }
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "nurses": "4",
+    "psychiatrists": 0,
+    "psychologists": "1",
+    "socialWorkers": "1",
+    "year": 2017,
+    "totalWorkers": 6,
+    "suicideRate": { "male": 0, "female": 0, "both": 0 }
+  }
+]
