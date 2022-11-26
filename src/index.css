@@ -45,3 +45,11 @@ svg {
 .controls > button:first-child {
   margin-right: 0.25rem;
 }
+
+.marker > circle {
+  fill: #ff5533 !important;
+}
+
+.marker:hover > circle {
+  fill: #33ff7a !important;
+}
