@@ -1,0 +1,1391 @@
+{
+  "totalWorkers": 3651,
+  "countires": [
+    {
+      "country": "Mauritania",
+      "Nurses": "0",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0",
+      "SocialWorkers": 0,
+      "year": 2013,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Belgium",
+      "Nurses": "12",
+      "Psychiatrists": "20.0",
+      "Psychologists": "10",
+      "SocialWorkers": "17",
+      "year": 2013,
+      "totalWorkers": 59
+    },
+    {
+      "country": "Honduras",
+      "Nurses": 0,
+      "Psychiatrists": "0",
+      "Psychologists": "0",
+      "SocialWorkers": "0",
+      "year": 2014,
+      "totalWorkers": 0
+    },
+    {
+      "country": "United Republic of Tanzania",
+      "Nurses": "0",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0.00",
+      "SocialWorkers": "0.0",
+      "year": 2015,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Sudan",
+      "Nurses": 0,
+      "Psychiatrists": "0.0",
+      "Psychologists": 0,
+      "SocialWorkers": "0",
+      "year": 2015,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Jamaica",
+      "Nurses": "10",
+      "Psychiatrists": "1",
+      "Psychologists": "0",
+      "SocialWorkers": "0",
+      "year": 2015,
+      "totalWorkers": 11
+    },
+    {
+      "country": "Lebanon",
+      "Nurses": "3",
+      "Psychiatrists": "1",
+      "Psychologists": "3",
+      "SocialWorkers": "1",
+      "year": 2015,
+      "totalWorkers": 8
+    },
+    {
+      "country": "Oman",
+      "Nurses": "3",
+      "Psychiatrists": "1",
+      "Psychologists": "0",
+      "SocialWorkers": 0,
+      "year": 2015,
+      "totalWorkers": 4
+    },
+    {
+      "country": "Czechia",
+      "Nurses": "30",
+      "Psychiatrists": "12",
+      "Psychologists": "2",
+      "SocialWorkers": "1",
+      "year": 2015,
+      "totalWorkers": 45
+    },
+    {
+      "country": "Germany",
+      "Nurses": 0,
+      "Psychiatrists": "13",
+      "Psychologists": "49",
+      "SocialWorkers": 0,
+      "year": 2015,
+      "totalWorkers": 62
+    },
+    {
+      "country": "Australia",
+      "Nurses": "90",
+      "Psychiatrists": "13",
+      "Psychologists": "10",
+      "SocialWorkers": 0,
+      "year": 2015,
+      "totalWorkers": 113
+    },
+    {
+      "country": "Luxembourg",
+      "Nurses": 0,
+      "Psychiatrists": "17",
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2015,
+      "totalWorkers": 17
+    },
+    {
+      "country": "China",
+      "Nurses": "5",
+      "Psychiatrists": "2",
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2015,
+      "totalWorkers": 7
+    },
+    {
+      "country": "Netherlands",
+      "Nurses": 0,
+      "Psychiatrists": "20",
+      "Psychologists": "12",
+      "SocialWorkers": 0,
+      "year": 2015,
+      "totalWorkers": 32
+    },
+    {
+      "country": "Republic of Moldova",
+      "Nurses": "14",
+      "Psychiatrists": "4",
+      "Psychologists": "0.9",
+      "SocialWorkers": "0",
+      "year": 2015,
+      "totalWorkers": 18
+    },
+    {
+      "country": "Switzerland",
+      "Nurses": "92",
+      "Psychiatrists": "43.9",
+      "Psychologists": "84",
+      "SocialWorkers": 0,
+      "year": 2015,
+      "totalWorkers": 219
+    },
+    {
+      "country": "Italy",
+      "Nurses": "23",
+      "Psychiatrists": "5.9",
+      "Psychologists": "3",
+      "SocialWorkers": "2",
+      "year": 2015,
+      "totalWorkers": 33
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "Nurses": "22",
+      "Psychiatrists": "8.0",
+      "Psychologists": "1",
+      "SocialWorkers": "0",
+      "year": 2015,
+      "totalWorkers": 31
+    },
+    {
+      "country": "Russian Federation",
+      "Nurses": 0,
+      "Psychiatrists": "8",
+      "Psychologists": "4",
+      "SocialWorkers": "2",
+      "year": 2015,
+      "totalWorkers": 14
+    },
+    {
+      "country": "Spain",
+      "Nurses": "2",
+      "Psychiatrists": "9",
+      "Psychologists": 0,
+      "SocialWorkers": "0",
+      "year": 2015,
+      "totalWorkers": 11
+    },
+    {
+      "country": "Latvia",
+      "Nurses": "22",
+      "Psychiatrists": "9.99",
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2015,
+      "totalWorkers": 31
+    },
+    {
+      "country": "Kiribati",
+      "Nurses": "2",
+      "Psychiatrists": 0,
+      "Psychologists": 0,
+      "SocialWorkers": "0",
+      "year": 2015,
+      "totalWorkers": 2
+    },
+    {
+      "country": "Cyprus",
+      "Nurses": "34.9",
+      "Psychiatrists": 0,
+      "Psychologists": 0,
+      "SocialWorkers": "0",
+      "year": 2015,
+      "totalWorkers": 34
+    },
+    {
+      "country": "Barbados",
+      "Nurses": "63",
+      "Psychiatrists": 0,
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2015,
+      "totalWorkers": 63
+    },
+    {
+      "country": "Chad",
+      "Nurses": "0.0",
+      "Psychiatrists": "0.00",
+      "Psychologists": 0,
+      "SocialWorkers": "0.00",
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Niger",
+      "Nurses": "0",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0.0",
+      "SocialWorkers": "0.0",
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Guinea",
+      "Nurses": 0,
+      "Psychiatrists": "0.0",
+      "Psychologists": "0.00",
+      "SocialWorkers": "0.00",
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "South Sudan",
+      "Nurses": "0.0",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Mali",
+      "Nurses": "0.09",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0.0",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Burkina Faso",
+      "Nurses": "0",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0.0",
+      "SocialWorkers": "0.0",
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Liberia",
+      "Nurses": "6",
+      "Psychiatrists": "0.0",
+      "Psychologists": 0,
+      "SocialWorkers": "1",
+      "year": 2016,
+      "totalWorkers": 7
+    },
+    {
+      "country": "Mozambique",
+      "Nurses": 0,
+      "Psychiatrists": "0.0",
+      "Psychologists": "0",
+      "SocialWorkers": "0.0",
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Togo",
+      "Nurses": "0",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0",
+      "SocialWorkers": "0.0",
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Zambia",
+      "Nurses": "1",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0.0",
+      "SocialWorkers": "0.0",
+      "year": 2016,
+      "totalWorkers": 1
+    },
+    {
+      "country": "Angola",
+      "Nurses": "0",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0",
+      "SocialWorkers": "0.0",
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Ghana",
+      "Nurses": "7",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0.0",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 7
+    },
+    {
+      "country": "Madagascar",
+      "Nurses": "0",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0.0",
+      "SocialWorkers": "0.0",
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Rwanda",
+      "Nurses": "1",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 1
+    },
+    {
+      "country": "Haiti",
+      "Nurses": "0",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Congo",
+      "Nurses": "0",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0.0",
+      "SocialWorkers": "0.0",
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Timor-Leste",
+      "Nurses": "1",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0.0",
+      "SocialWorkers": "1",
+      "year": 2016,
+      "totalWorkers": 2
+    },
+    {
+      "country": "Uganda",
+      "Nurses": "2",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0.0",
+      "SocialWorkers": "0.0",
+      "year": 2016,
+      "totalWorkers": 2
+    },
+    {
+      "country": "Zimbabwe",
+      "Nurses": "3",
+      "Psychiatrists": "0.09",
+      "Psychologists": "0.0",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 3
+    },
+    {
+      "country": "Gambia",
+      "Nurses": "0",
+      "Psychiatrists": "0",
+      "Psychologists": 0,
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Bangladesh",
+      "Nurses": "0",
+      "Psychiatrists": "0",
+      "Psychologists": "0",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Côte d’Ivoire",
+      "Nurses": "0",
+      "Psychiatrists": "0",
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Kenya",
+      "Nurses": 0,
+      "Psychiatrists": "0",
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Senegal",
+      "Nurses": "0",
+      "Psychiatrists": "0",
+      "Psychologists": "0.0",
+      "SocialWorkers": "0.0",
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Yemen",
+      "Nurses": "0",
+      "Psychiatrists": "0",
+      "Psychologists": "0",
+      "SocialWorkers": "0.0",
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Mexico",
+      "Nurses": "2",
+      "Psychiatrists": "0",
+      "Psychologists": "3",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 5
+    },
+    {
+      "country": "Fiji",
+      "Nurses": "1",
+      "Psychiatrists": "0",
+      "Psychologists": "0",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 1
+    },
+    {
+      "country": "Afghanistan",
+      "Nurses": "0.09",
+      "Psychiatrists": "0",
+      "Psychologists": "0",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Gabon",
+      "Nurses": "0",
+      "Psychiatrists": "0",
+      "Psychologists": "0",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "India",
+      "Nurses": "0",
+      "Psychiatrists": "0",
+      "Psychologists": "0.0",
+      "SocialWorkers": "0.0",
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Indonesia",
+      "Nurses": "2",
+      "Psychiatrists": "0",
+      "Psychologists": "0",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 2
+    },
+    {
+      "country": "Nepal",
+      "Nurses": "0",
+      "Psychiatrists": "0",
+      "Psychologists": "0",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Namibia",
+      "Nurses": "0.9",
+      "Psychiatrists": "0",
+      "Psychologists": "1",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 1
+    },
+    {
+      "country": "Syrian Arab Republic",
+      "Nurses": "1.0",
+      "Psychiatrists": "0",
+      "Psychologists": "1.0",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 2
+    },
+    {
+      "country": "Myanmar",
+      "Nurses": "0",
+      "Psychiatrists": "0",
+      "Psychologists": 0,
+      "SocialWorkers": "0.0",
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Vanuatu",
+      "Nurses": "4",
+      "Psychiatrists": "0",
+      "Psychologists": "0",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 4
+    },
+    {
+      "country": "Cambodia",
+      "Nurses": "0",
+      "Psychiatrists": "0",
+      "Psychologists": "7.09",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 7
+    },
+    {
+      "country": "Ecuador",
+      "Nurses": "0.0",
+      "Psychiatrists": "0",
+      "Psychologists": "7",
+      "SocialWorkers": "0.0",
+      "year": 2016,
+      "totalWorkers": 7
+    },
+    {
+      "country": "Guatemala",
+      "Nurses": "1.0",
+      "Psychiatrists": "0",
+      "Psychologists": "46",
+      "SocialWorkers": "0.00",
+      "year": 2016,
+      "totalWorkers": 47
+    },
+    {
+      "country": "Bhutan",
+      "Nurses": "0",
+      "Psychiatrists": "0",
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "Nurses": "4",
+      "Psychiatrists": "0",
+      "Psychologists": "3.0",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 7
+    },
+    {
+      "country": "Philippines",
+      "Nurses": 0,
+      "Psychiatrists": "0",
+      "Psychologists": "0",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Saint Lucia",
+      "Nurses": "50",
+      "Psychiatrists": "0",
+      "Psychologists": 0,
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 50
+    },
+    {
+      "country": "Thailand",
+      "Nurses": "7",
+      "Psychiatrists": "0",
+      "Psychologists": "1",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 8
+    },
+    {
+      "country": "Morocco",
+      "Nurses": "2",
+      "Psychiatrists": "0",
+      "Psychologists": "0",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 2
+    },
+    {
+      "country": "El Salvador",
+      "Nurses": 0,
+      "Psychiatrists": "0",
+      "Psychologists": "2.0",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 2
+    },
+    {
+      "country": "Guyana",
+      "Nurses": 0,
+      "Psychiatrists": "0.9",
+      "Psychologists": "0",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "Nurses": "7.0",
+      "Psychiatrists": "1",
+      "Psychologists": 0,
+      "SocialWorkers": "4",
+      "year": 2016,
+      "totalWorkers": 12
+    },
+    {
+      "country": "Malaysia",
+      "Nurses": "6",
+      "Psychiatrists": "1.0",
+      "Psychologists": "1.0",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 8
+    },
+    {
+      "country": "Jordan",
+      "Nurses": "3",
+      "Psychiatrists": "1",
+      "Psychologists": "1",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 5
+    },
+    {
+      "country": "Bolivia (Plurinational State of)",
+      "Nurses": 0,
+      "Psychiatrists": "1",
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 1
+    },
+    {
+      "country": "Brunei Darussalam",
+      "Nurses": "15.09",
+      "Psychiatrists": "1",
+      "Psychologists": "5.0",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 21
+    },
+    {
+      "country": "Suriname",
+      "Nurses": "16",
+      "Psychiatrists": "1",
+      "Psychologists": "0",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 17
+    },
+    {
+      "country": "Saudi Arabia",
+      "Nurses": "10",
+      "Psychiatrists": "1",
+      "Psychologists": "2.0",
+      "SocialWorkers": "3.9",
+      "year": 2016,
+      "totalWorkers": 16
+    },
+    {
+      "country": "Belize",
+      "Nurses": "3",
+      "Psychiatrists": "1",
+      "Psychologists": "1",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 5
+    },
+    {
+      "country": "Tajikistan",
+      "Nurses": "1",
+      "Psychiatrists": "1",
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 2
+    },
+    {
+      "country": "Albania",
+      "Nurses": "6",
+      "Psychiatrists": "1",
+      "Psychologists": "1",
+      "SocialWorkers": "1.0",
+      "year": 2016,
+      "totalWorkers": 9
+    },
+    {
+      "country": "South Africa",
+      "Nurses": 0,
+      "Psychiatrists": "1",
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 1
+    },
+    {
+      "country": "Samoa",
+      "Nurses": "1",
+      "Psychiatrists": "1",
+      "Psychologists": 0,
+      "SocialWorkers": "1",
+      "year": 2016,
+      "totalWorkers": 3
+    },
+    {
+      "country": "Egypt",
+      "Nurses": "4",
+      "Psychiatrists": "1",
+      "Psychologists": "0",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 5
+    },
+    {
+      "country": "Türkiye",
+      "Nurses": "150",
+      "Psychiatrists": "1",
+      "Psychologists": "2",
+      "SocialWorkers": "1",
+      "year": 2016,
+      "totalWorkers": 154
+    },
+    {
+      "country": "United Arab Emirates",
+      "Nurses": "4",
+      "Psychiatrists": "1",
+      "Psychologists": "0",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 5
+    },
+    {
+      "country": "Kyrgyzstan",
+      "Nurses": "7",
+      "Psychiatrists": "1",
+      "Psychologists": "0",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 8
+    },
+    {
+      "country": "Colombia",
+      "Nurses": "0",
+      "Psychiatrists": "1",
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 1
+    },
+    {
+      "country": "Grenada",
+      "Nurses": "0.9",
+      "Psychiatrists": "1",
+      "Psychologists": 0,
+      "SocialWorkers": "2",
+      "year": 2016,
+      "totalWorkers": 3
+    },
+    {
+      "country": "United States of America",
+      "Nurses": "4",
+      "Psychiatrists": "10",
+      "Psychologists": "29",
+      "SocialWorkers": "60",
+      "year": 2016,
+      "totalWorkers": 103
+    },
+    {
+      "country": "Hungary",
+      "Nurses": "33",
+      "Psychiatrists": "11.0",
+      "Psychologists": "2",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 46
+    },
+    {
+      "country": "Croatia",
+      "Nurses": "41",
+      "Psychiatrists": "11",
+      "Psychologists": "4",
+      "SocialWorkers": "1",
+      "year": 2016,
+      "totalWorkers": 57
+    },
+    {
+      "country": "Japan",
+      "Nurses": "83",
+      "Psychiatrists": "11",
+      "Psychologists": "3.0",
+      "SocialWorkers": "8",
+      "year": 2016,
+      "totalWorkers": 105
+    },
+    {
+      "country": "Slovenia",
+      "Nurses": "36",
+      "Psychiatrists": "11.9",
+      "Psychologists": "9",
+      "SocialWorkers": "1.9",
+      "year": 2016,
+      "totalWorkers": 57
+    },
+    {
+      "country": "Belarus",
+      "Nurses": 0,
+      "Psychiatrists": "13",
+      "Psychologists": "5",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 18
+    },
+    {
+      "country": "Uruguay",
+      "Nurses": 0,
+      "Psychiatrists": "14",
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 14
+    },
+    {
+      "country": "Estonia",
+      "Nurses": "23",
+      "Psychiatrists": "16",
+      "Psychologists": "6",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 45
+    },
+    {
+      "country": "Lithuania",
+      "Nurses": "49",
+      "Psychiatrists": "18",
+      "Psychologists": "15",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 82
+    },
+    {
+      "country": "Seychelles",
+      "Nurses": "8",
+      "Psychiatrists": "2",
+      "Psychologists": "3",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 13
+    },
+    {
+      "country": "Dominican Republic",
+      "Nurses": 0,
+      "Psychiatrists": "2",
+      "Psychologists": "7",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 9
+    },
+    {
+      "country": "Uzbekistan",
+      "Nurses": "9",
+      "Psychiatrists": "2",
+      "Psychologists": "0.09",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 11
+    },
+    {
+      "country": "Qatar",
+      "Nurses": "9.9",
+      "Psychiatrists": "2",
+      "Psychologists": "1",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 12
+    },
+    {
+      "country": "Tonga",
+      "Nurses": "16.9",
+      "Psychiatrists": "2",
+      "Psychologists": "1",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 19
+    },
+    {
+      "country": "Peru",
+      "Nurses": "5.99",
+      "Psychiatrists": "2.9",
+      "Psychologists": "9",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 16
+    },
+    {
+      "country": "Sweden",
+      "Nurses": "50",
+      "Psychiatrists": "20",
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 70
+    },
+    {
+      "country": "Argentina",
+      "Nurses": 0,
+      "Psychiatrists": "21",
+      "Psychologists": "22",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 43
+    },
+    {
+      "country": "Poland",
+      "Nurses": "30.9",
+      "Psychiatrists": "24",
+      "Psychologists": "16",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 70
+    },
+    {
+      "country": "New Zealand",
+      "Nurses": "75",
+      "Psychiatrists": "28",
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 103
+    },
+    {
+      "country": "Brazil",
+      "Nurses": "34.9",
+      "Psychiatrists": "3",
+      "Psychologists": "12",
+      "SocialWorkers": "6",
+      "year": 2016,
+      "totalWorkers": 55
+    },
+    {
+      "country": "Azerbaijan",
+      "Nurses": "6",
+      "Psychiatrists": "3",
+      "Psychologists": "1",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 10
+    },
+    {
+      "country": "Armenia",
+      "Nurses": "11",
+      "Psychiatrists": "3",
+      "Psychologists": "0",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 14
+    },
+    {
+      "country": "Costa Rica",
+      "Nurses": "5",
+      "Psychiatrists": "3.9",
+      "Psychologists": "14",
+      "SocialWorkers": "76.9",
+      "year": 2016,
+      "totalWorkers": 98
+    },
+    {
+      "country": "Monaco",
+      "Nurses": "83",
+      "Psychiatrists": "31",
+      "Psychologists": "53",
+      "SocialWorkers": "10",
+      "year": 2016,
+      "totalWorkers": 177
+    },
+    {
+      "country": "Mongolia",
+      "Nurses": "4",
+      "Psychiatrists": "4.0",
+      "Psychologists": "0",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 8
+    },
+    {
+      "country": "Panama",
+      "Nurses": "3",
+      "Psychiatrists": "4.0",
+      "Psychologists": "7",
+      "SocialWorkers": "9",
+      "year": 2016,
+      "totalWorkers": 23
+    },
+    {
+      "country": "Singapore",
+      "Nurses": 0,
+      "Psychiatrists": "4",
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 4
+    },
+    {
+      "country": "Norway",
+      "Nurses": 0,
+      "Psychiatrists": "48.0",
+      "Psychologists": "73",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 121
+    },
+    {
+      "country": "Romania",
+      "Nurses": "18",
+      "Psychiatrists": "5",
+      "Psychologists": "1",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 24
+    },
+    {
+      "country": "Cook Islands",
+      "Nurses": "11",
+      "Psychiatrists": "5",
+      "Psychologists": "11",
+      "SocialWorkers": "17",
+      "year": 2016,
+      "totalWorkers": 44
+    },
+    {
+      "country": "Republic of Korea",
+      "Nurses": "13",
+      "Psychiatrists": "5",
+      "Psychologists": "1",
+      "SocialWorkers": "8",
+      "year": 2016,
+      "totalWorkers": 27
+    },
+    {
+      "country": "Greece",
+      "Nurses": "12",
+      "Psychiatrists": "5",
+      "Psychologists": "8",
+      "SocialWorkers": "3",
+      "year": 2016,
+      "totalWorkers": 28
+    },
+    {
+      "country": "Georgia",
+      "Nurses": "5.9",
+      "Psychiatrists": "6",
+      "Psychologists": "2",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 13
+    },
+    {
+      "country": "Ukraine",
+      "Nurses": 0,
+      "Psychiatrists": "6.9",
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 6
+    },
+    {
+      "country": "Chile",
+      "Nurses": "1",
+      "Psychiatrists": "6.9",
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 7
+    },
+    {
+      "country": "Bulgaria",
+      "Nurses": "17",
+      "Psychiatrists": "7",
+      "Psychologists": "1",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 25
+    },
+    {
+      "country": "Montenegro",
+      "Nurses": "18",
+      "Psychiatrists": "8",
+      "Psychologists": 0,
+      "SocialWorkers": "1",
+      "year": 2016,
+      "totalWorkers": 27
+    },
+    {
+      "country": "Cuba",
+      "Nurses": "8.9",
+      "Psychiatrists": "9.0",
+      "Psychologists": "31.0",
+      "SocialWorkers": "1",
+      "year": 2016,
+      "totalWorkers": 49
+    },
+    {
+      "country": "Israel",
+      "Nurses": 0,
+      "Psychiatrists": "9",
+      "Psychologists": "88.09",
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 97
+    },
+    {
+      "country": "Guinea-Bissau",
+      "Nurses": "0",
+      "Psychiatrists": 0,
+      "Psychologists": "0",
+      "SocialWorkers": "0",
+      "year": 2016,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Eritrea",
+      "Nurses": "2",
+      "Psychiatrists": 0,
+      "Psychologists": "0.0",
+      "SocialWorkers": "0.0",
+      "year": 2016,
+      "totalWorkers": 2
+    },
+    {
+      "country": "Nauru",
+      "Nurses": "8",
+      "Psychiatrists": 0,
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2016,
+      "totalWorkers": 8
+    },
+    {
+      "country": "Marshall Islands",
+      "Nurses": "3",
+      "Psychiatrists": "0",
+      "Psychologists": "1",
+      "SocialWorkers": 0,
+      "year": 2017,
+      "totalWorkers": 4
+    },
+    {
+      "country": "Burundi",
+      "Nurses": "0.0",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0",
+      "SocialWorkers": "0.0",
+      "year": 2017,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Central African Republic",
+      "Nurses": "0.0",
+      "Psychiatrists": "0.0",
+      "Psychologists": 0,
+      "SocialWorkers": "0.0",
+      "year": 2017,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Sierra Leone",
+      "Nurses": "0",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0.0",
+      "SocialWorkers": "0.0",
+      "year": 2017,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Eswatini",
+      "Nurses": "9",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0",
+      "SocialWorkers": "0",
+      "year": 2017,
+      "totalWorkers": 9
+    },
+    {
+      "country": "Ethiopia",
+      "Nurses": "1",
+      "Psychiatrists": "0.0",
+      "Psychologists": "0.0",
+      "SocialWorkers": "0.0",
+      "year": 2017,
+      "totalWorkers": 1
+    },
+    {
+      "country": "Comoros",
+      "Nurses": "0",
+      "Psychiatrists": "0",
+      "Psychologists": "0",
+      "SocialWorkers": 0,
+      "year": 2017,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Iraq",
+      "Nurses": "1",
+      "Psychiatrists": "0",
+      "Psychologists": "0",
+      "SocialWorkers": "0.0",
+      "year": 2017,
+      "totalWorkers": 1
+    },
+    {
+      "country": "Sri Lanka",
+      "Nurses": "3",
+      "Psychiatrists": "0",
+      "Psychologists": "0",
+      "SocialWorkers": "0",
+      "year": 2017,
+      "totalWorkers": 3
+    },
+    {
+      "country": "Equatorial Guinea",
+      "Nurses": "5",
+      "Psychiatrists": "0",
+      "Psychologists": "0",
+      "SocialWorkers": "0.0",
+      "year": 2017,
+      "totalWorkers": 5
+    },
+    {
+      "country": "Nicaragua",
+      "Nurses": 0,
+      "Psychiatrists": "0",
+      "Psychologists": "1",
+      "SocialWorkers": "3",
+      "year": 2017,
+      "totalWorkers": 4
+    },
+    {
+      "country": "The former Yugoslav Republic of Macedonia",
+      "Nurses": 0,
+      "Psychiatrists": "14",
+      "Psychologists": "2",
+      "SocialWorkers": "1",
+      "year": 2017,
+      "totalWorkers": 17
+    },
+    {
+      "country": "Canada",
+      "Nurses": "68",
+      "Psychiatrists": "14",
+      "Psychologists": "48",
+      "SocialWorkers": "14",
+      "year": 2017,
+      "totalWorkers": 144
+    },
+    {
+      "country": "Iran (Islamic Republic of)",
+      "Nurses": "9",
+      "Psychiatrists": "2.0",
+      "Psychologists": "5",
+      "SocialWorkers": "1",
+      "year": 2017,
+      "totalWorkers": 17
+    },
+    {
+      "country": "Mauritius",
+      "Nurses": 0,
+      "Psychiatrists": "2",
+      "Psychologists": 0,
+      "SocialWorkers": "1",
+      "year": 2017,
+      "totalWorkers": 3
+    },
+    {
+      "country": "Maldives",
+      "Nurses": 0,
+      "Psychiatrists": "2",
+      "Psychologists": "2",
+      "SocialWorkers": "0",
+      "year": 2017,
+      "totalWorkers": 4
+    },
+    {
+      "country": "France",
+      "Nurses": "98.0",
+      "Psychiatrists": "20.9",
+      "Psychologists": "48",
+      "SocialWorkers": 0,
+      "year": 2017,
+      "totalWorkers": 166
+    },
+    {
+      "country": "Finland",
+      "Nurses": "51.9",
+      "Psychiatrists": "23",
+      "Psychologists": "109",
+      "SocialWorkers": "2",
+      "year": 2017,
+      "totalWorkers": 185
+    },
+    {
+      "country": "Bahrain",
+      "Nurses": "27.9",
+      "Psychiatrists": "5",
+      "Psychologists": "1",
+      "SocialWorkers": "1",
+      "year": 2017,
+      "totalWorkers": 34
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "Nurses": 0,
+      "Psychiatrists": "5",
+      "Psychologists": 0,
+      "SocialWorkers": 0,
+      "year": 2017,
+      "totalWorkers": 5
+    },
+    {
+      "country": "Serbia",
+      "Nurses": "13",
+      "Psychiatrists": "8",
+      "Psychologists": "4",
+      "SocialWorkers": "0",
+      "year": 2017,
+      "totalWorkers": 25
+    },
+    {
+      "country": "Tunisia",
+      "Nurses": "0",
+      "Psychiatrists": 0,
+      "Psychologists": "0.00",
+      "SocialWorkers": 0,
+      "year": 2017,
+      "totalWorkers": 0
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "Nurses": "4",
+      "Psychiatrists": 0,
+      "Psychologists": "1",
+      "SocialWorkers": "1",
+      "year": 2017,
+      "totalWorkers": 6
+    }
+  ]
+}
