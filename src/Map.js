@@ -11,8 +11,6 @@ import {
 // import array from countries.json
 import countries from "./countries.json";
 import data from "./data.json";
-import suicide_rates from "./suicide_rates.json";
-import mental_healthcare_workers from "./mental_healthcare_workers3.json";
 import { Modal } from "./modal";
 
 const Map = ({ gender }) => {
