@@ -40,10 +40,9 @@ export function Modal({ data, gender, isOpen, setIsOpen }) {
     "Psychiatrists",
     "Psychologists",
     "Social Workers",
-    `Suicide Rate for ${gender}`,
+    `Suicide rate for ${gender === "both" ? "both genders" : gender}`,
   ];
 
-  console.log(data);
   const countryData = {
     labels: labels,
     datasets: [
@@ -79,7 +78,7 @@ export function Modal({ data, gender, isOpen, setIsOpen }) {
       <Transition appear show={isOpen} as={Fragment}>
         <Dialog
           as="div"
-          className="fixed inset-0 z-[9999] overflow-y-auto"
+          className="fixed inset-0 z-[9999] overflow-y-auto w-full"
           onClose={() => {
             setIsOpen(false);
           }}
@@ -113,13 +112,15 @@ export function Modal({ data, gender, isOpen, setIsOpen }) {
               leaveFrom="opacity-100 scale-100"
               leaveTo="opacity-0 scale-95"
             >
-              <div className="inline-block w-full max-w-3xl p-8 my-8 overflow-hidden text-left align-middle transition-all transform bg-white shadow-xl rounded-2xl">
+              <div className="inline-block w-fit p-8 my-8 overflow-hidden text-left align-middle transition-all transform bg-white shadow-xl rounded-2xl">
                 <div className="flex flex-wrap">
                   <Dialog.Title className="my-2 text-xl font-medium leading-6">
                     Data for {data.country}
                   </Dialog.Title>
                 </div>
-                <Bar options={options} data={countryData} />
+                <div>
+                  <Bar options={options} data={countryData} />
+                </div>
                 <div className="flex justify-start space-x-3 mt-5">
                   <button
                     onClick={() => setIsOpen(false)}

@@ -39,13 +39,13 @@ const Map = ({
 
   return (
     <>
-      <div className="w-full flex justify-center mt-3">
+      <div>
         <ComposableMap
           projectionConfig={{
             rotate: [-10, 0, 0],
             scale: 147,
           }}
-          className="max-w-4xl min-h-[500px] border-2 border-gray-300 rounded-lg bg-white"
+          className="max-w-4xl min-h-[500px] rounded-t-lg bg-white"
         >
           <ZoomableGroup
             zoom={position.zoom}
@@ -146,38 +146,60 @@ const Map = ({
             ))}
           </ZoomableGroup>
         </ComposableMap>
-        <Modal
-          data={countryData}
-          gender={gender}
-          isOpen={isOpen}
-          setIsOpen={(val) => setIsOpen(val)}
-        />
       </div>
-      <div>
+      <div className="grid bg-white w-fit px-10 py-3 rounded-b-lg">
         <div className="flex flex-col">
-          <div className="text-xl font-bold">Legends</div>
-          <div className="flex items-center space-x-1">
-            <div className="w-[20px] h-[20px] bg-red-500 rounded-full"></div>
-            <div>No data on mental healthcare workers available</div>
-          </div>
-          <div className="flex items-center space-x-1">
-            <div className="w-[20px] h-[20px] bg-blue-700 rounded-full"></div>
-            <div>Data on mental healthcare workers available</div>
-          </div>
-          <div className="flex items-center space-x-1">
-            <div className="w-[10px] h-[10px] bg-gray-700 rounded-full"></div>
-            <div className="w-[15px] h-[15px] bg-gray-700 rounded-full"></div>
-            <div className="w-[20px] h-[20px] bg-gray-700 rounded-full"></div>
-            <div>Suicide rate per 100,000 people</div>
-          </div>
-          <div className="flex items-center space-x-1">
-            <div className="w-[20px] h-[20px] bg-gray-700 rounded-full opacity-10"></div>
-            <div className="w-[20px] h-[20px] bg-gray-700 rounded-full opacity-50"></div>
-            <div className="w-[20px] h-[20px] bg-gray-700 rounded-full opacity-100"></div>
-            <div>Mental health care workers per 100,000 people</div>
-          </div>
+          <div className="text-xl font-bold">Legend</div>
+          <table className="table-auto">
+            <tr>
+              <td className="pl-8">
+                <div className="w-[20px] h-[20px] bg-red-500 rounded-full"></div>
+              </td>
+              <td>
+                <div>No data on mental healthcare workers available</div>
+              </td>
+            </tr>
+            <tr>
+              <td className="pl-8">
+                <div className="w-[20px] h-[20px] bg-blue-700 rounded-full"></div>
+              </td>
+              <td>
+                <div>Data on mental healthcare workers available</div>
+              </td>
+            </tr>
+            <tr>
+              <td className="pr-3 pl-5">
+                <div className="flex items-center">
+                  <div className="w-[10px] h-[10px] bg-gray-700 rounded-full"></div>
+                  <div className="w-[15px] h-[15px] bg-gray-700 rounded-full"></div>
+                  <div className="w-[20px] h-[20px] bg-gray-700 rounded-full"></div>
+                </div>
+              </td>
+              <td>
+                <div>Suicide rate per 100,000 people</div>
+              </td>
+            </tr>
+            <tr>
+              <td className="px-3">
+                <div className="flex items-center">
+                  <div className="w-[20px] h-[20px] bg-gray-700 rounded-full opacity-10"></div>
+                  <div className="w-[20px] h-[20px] bg-gray-700 rounded-full opacity-50"></div>
+                  <div className="w-[20px] h-[20px] bg-gray-700 rounded-full opacity-100"></div>
+                </div>
+              </td>
+              <td>
+                <div>Mental health care workers per 100,000 people</div>
+              </td>
+            </tr>
+          </table>
         </div>
       </div>
+      <Modal
+        data={countryData}
+        gender={gender}
+        isOpen={isOpen}
+        setIsOpen={(val) => setIsOpen(val)}
+      />
     </>
   );
 };

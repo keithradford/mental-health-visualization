@@ -22,28 +22,21 @@ canvas {
   margin: 0 auto;
 }
 
+.test > .flex,
+.grid {
+  margin-left: 341px;
+  margin-right: 340px;
+}
+
+.hi {
+  margin-left: 0px;
+}
+
 .rsm-svg {
-  /* margin-top: 50px; */
-  /* border: #33ff7a; */
-  /* border-style: solid;
-  width: 90% !important;
-  max-height: 80vh !important; */
-}
-
-canvas {
-  /* margin-top: 50px; */
-  width: 80% !important;
-  max-height: 90vh !important;
-}
-
-.controls {
-  /* display: flex;
-  /* position: fixed; */
-  /* top: 0; */
-  /* left: 50%; */
-  /* margin: 1.25rem 0; */
-  /* text-align: center; */
-  /* transform: translateX(-50%);  */
+  margin-top: 10px;
+  min-width: 100vh !important;
+  min-height: 50vh !important;
+  max-height: 60vh;
 }
 
 .controls > button {
