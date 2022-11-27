@@ -12,9 +12,8 @@ import {
 import countries from "./countries.json";
 import data from "./data.json";
 
-const Map = () => {
+const Map = ({ gender }) => {
   const [position, setPosition] = useState({ coordinates: [0, 0], zoom: 1 });
-  const [gender, setGender] = useState("both");
 
   function handleZoomIn() {
     if (position.zoom >= 4) return;
@@ -143,18 +142,6 @@ const Map = () => {
             <line x1="5" y1="12" x2="19" y2="12" />
           </svg>
         </button>
-        change gender:
-        <select
-          value={gender}
-          onChange={(e) => {
-            setGender(e.target.value);
-          }}
-        >
-          <option value="male">Male</option>
-          <option value="female">Female</option>
-          <option value="both">All</option>
-        </select>
-        {gender}
       </div>
     </div>
   );
