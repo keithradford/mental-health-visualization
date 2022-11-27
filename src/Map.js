@@ -11,9 +11,25 @@ import {
 // import array from countries.json
 import countries from "./countries.json";
 import data from "./data.json";
+import suicide_rates from "./suicide_rates.json";
+import mental_healthcare_workers from "./mental_healthcare_workers3.json";
+import { Modal } from "./modal";
 
 const Map = ({ gender }) => {
   const [position, setPosition] = useState({ coordinates: [0, 0], zoom: 1 });
+
+  const [countryData, setCountryData] = useState({
+    country: "",
+    Nurses: "",
+    Psychiatrists: "",
+    Psychologists: "",
+    SocialWorkers: "",
+    year: "",
+    totalWorkers: "",
+    suicideRate: { male: "", female: "", both: "" },
+  });
+
+  const [isOpen, setIsOpen] = useState(false);
 
   function handleZoomIn() {
     if (position.zoom >= 4) return;
@@ -110,6 +126,26 @@ const Map = ({ gender }) => {
                 onMouseEnter={() => {
                   console.log(country);
                 }}
+                onClick={() => {
+                  setIsOpen(true);
+                  const countryInfo = data.find(
+                    ({ country: mCountry }) => mCountry === name
+                  );
+                  setCountryData({
+                    country: countryInfo.country,
+                    Nurses: parseFloat(countryInfo.nurses),
+                    Psychiatrists: parseFloat(countryInfo.psychiatrists),
+                    Psychologists: parseFloat(countryInfo.psychologists),
+                    SocialWorkers: parseFloat(countryInfo.socialWorkers),
+                    year: countryInfo.year,
+                    totalWorkers: countryInfo.totalWorkers,
+                    suicideRate: {
+                      male: countryInfo.suicideRate.male,
+                      female: countryInfo.suicideRate.female,
+                      both: countryInfo.suicideRate.both,
+                    },
+                  });
+                }}
               />
             </Marker>
           ))}
@@ -143,6 +179,12 @@ const Map = ({ gender }) => {
           </svg>
         </button>
       </div>
+      <Modal
+        data={countryData}
+        gender={gender}
+        isOpen={isOpen}
+        setIsOpen={(val) => setIsOpen(val)}
+      />
     </div>
   );
 };
