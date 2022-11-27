@@ -3,30 +3,155 @@ import "./App.css";
 import BubbleChart from "./BubbleChart";
 import Map from "./Map";
 
+import data from "./data";
+
 function App() {
   const [showMap, setShowMap] = useState(true);
   const [gender, setGender] = useState("both");
+  const [worker, setWorker] = useState("all");
+  const [country, setCountry] = useState("all");
+
+  const [position, setPosition] = useState({ coordinates: [0, 0], zoom: 1 });
+
+  function handleZoomIn() {
+    if (position.zoom >= 4) return;
+    setPosition((pos) => ({ ...pos, zoom: pos.zoom * 2 }));
+  }
+
+  function handleZoomOut() {
+    if (position.zoom <= 1) return;
+    setPosition((pos) => ({ ...pos, zoom: pos.zoom / 2 }));
+  }
 
   return (
     // align center
-    <div>
-      <h1>CSC 411</h1>
-      <h2>The importance of mental healthcare workers</h2>
-      <button onClick={() => setShowMap(true)}>Map</button>
-      <button onClick={() => setShowMap(false)}>Chart</button>
-      change gender:
-      <select
-        value={gender}
-        onChange={(e) => {
-          setGender(e.target.value);
-        }}
-      >
-        <option value="male">Male</option>
-        <option value="female">Female</option>
-        <option value="both">All</option>
-      </select>
-      {gender}
-      {showMap ? <Map gender={gender} /> : <BubbleChart gender={gender} />}
+    <div className="bg-gradient-to-b from-white via-purple-100 to-pink-200 min-h-screen">
+      <div className="flex flex-col mt-5 justify-center items-center w-full">
+        <h1 className="text-2xl font-bold">CSC 411</h1>
+        <h2 className="text-xl semi-bold">
+          The importance of mental healthcare workers
+        </h2>
+        <h2 className="text-2xl font-bold mt-5">Viewing options</h2>
+        <div className="flex justify-center items-center">
+          <div className="space-x-3">
+            <button
+              onClick={() => setShowMap(true)}
+              className={
+                showMap === true
+                  ? "bg-green-300 px-4 py-2 rounded-lg hover:bg-green-200"
+                  : "bg-green-100 px-4 py-2 rounded-lg hover:bg-green-200"
+              }
+            >
+              Map
+            </button>
+            <button
+              onClick={() => setShowMap(false)}
+              className={
+                showMap === false
+                  ? "bg-green-300 px-4 py-2 rounded-lg hover:bg-green-200"
+                  : "bg-green-100 px-4 py-2 rounded-lg hover:bg-green-200"
+              }
+            >
+              Chart
+            </button>
+          </div>
+          <div className="flex justify-center items-center bg-blue-200 px-4 py-2 rounded-lg ml-2">
+            <div>Gender:</div>
+            <select
+              value={gender}
+              onChange={(e) => {
+                setGender(e.target.value);
+              }}
+              className="ml-1 bg-gray-100 px-1 rounded-md w-[75px]"
+            >
+              <option value="male">Male</option>
+              <option value="female">Female</option>
+              <option value="both">All</option>
+            </select>
+          </div>
+          <div
+            className={
+              showMap === false
+                ? "hidden"
+                : "flex justify-center items-center ml-2 bg-purple-200 px-4 py-2 rounded-lg"
+            }
+          >
+            <div>Zoom:</div>
+            <div className="space-x-1 ml-1">
+              <button
+                onClick={handleZoomIn}
+                className="bg-orange-400 px-2 rounded-full text-white"
+              >
+                +
+              </button>
+              <button
+                onClick={handleZoomOut}
+                className="bg-orange-400 px-2 rounded-full text-white"
+              >
+                -
+              </button>
+            </div>
+          </div>
+          <div
+            className={
+              showMap === true
+                ? "hidden"
+                : "flex justify-center items-center ml-2 bg-purple-200 px-4 py-2 rounded-lg"
+            }
+          >
+            <div>Worker:</div>
+            <select
+              value={worker}
+              onChange={(e) => {
+                setWorker(e.target.value);
+              }}
+              className="ml-1 bg-gray-100 px-1 rounded-md w-[75px]"
+            >
+              <option value="all">All</option>
+              <option value="nurses">Nurses</option>
+              <option value="psychiatrists">Psychiatrists</option>
+              <option value="psychologists">Psychologists</option>
+              <option value="socialWorkers">Social Workers</option>
+            </select>
+          </div>
+          <div
+            className={
+              showMap === true
+                ? "hidden"
+                : "flex justify-center items-center ml-2 bg-yellow-200 px-4 py-2 rounded-lg"
+            }
+          >
+            <div>Country:</div>
+            <select
+              value={country}
+              onChange={(e) => {
+                setCountry(e.target.value);
+              }}
+              className="ml-1 bg-gray-100 px-1 rounded-md w-[75px]"
+            >
+              <option value="all">All</option>
+              {data.map((country) => (
+                <option value={country.country}>{country.country}</option>
+              ))}
+            </select>
+          </div>
+        </div>
+        {showMap ? (
+          <Map
+            gender={gender}
+            position={position}
+            setPosition={setPosition}
+            handleZoomIn={handleZoomIn}
+            handleZoomOut={handleZoomOut}
+          />
+        ) : (
+          <BubbleChart
+            gender={gender}
+            worker={worker}
+            countrySelected={country}
+          />
+        )}
+      </div>
     </div>
   );
 }
